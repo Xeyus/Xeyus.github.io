@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-06-23T12:19:17.350Z</updated>
+  <updated>2024-06-23T15:29:51.269Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -21,11 +21,13 @@
     <link href="https://xeyus.github.io/2024/06/23/3D%E6%89%93%E5%8D%B0%E8%AE%B0%E5%BD%95/"/>
     <id>https://xeyus.github.io/2024/06/23/3D%E6%89%93%E5%8D%B0%E8%AE%B0%E5%BD%95/</id>
     <published>2024-06-23T12:06:51.000Z</published>
-    <updated>2024-06-23T12:19:17.350Z</updated>
+    <updated>2024-06-23T15:29:51.269Z</updated>
     
     
     <summary type="html">&lt;h4 id=&quot;第一、二次&quot;&gt;&lt;a href=&quot;#第一、二次&quot; class=&quot;headerlink&quot; title=&quot;第一、二次&quot;&gt;&lt;/a&gt;第一、二次&lt;/h4&gt;&lt;p&gt;均由于机器型号和使用材料在切片软件内没设置正确，打出“面条”。&lt;/p&gt;
-&lt;h4 id=&quot;第三次&quot;&gt;&lt;a href=&quot;#第三次&quot; class=&quot;headerlink&quot; title=&quot;第三次&quot;&gt;&lt;/a&gt;第三次&lt;/h4&gt;&lt;p&gt;这次打印圆形置物架的底座。&lt;br&gt;选择材料正确，打印后除了一个直径一毫米的球状突起和几根飘着的丝状物外，没有其他瑕疵；表面光滑，纹路细腻，但侧面，也就是打印时向上的平行面较粗糙，竖直面上偶尔有小的凹陷。整体效果很好。&lt;/p&gt;</summary>
+&lt;h4 id=&quot;第三次&quot;&gt;&lt;a href=&quot;#第三次&quot; class=&quot;headerlink&quot; title=&quot;第三次&quot;&gt;&lt;/a&gt;第三次&lt;/h4&gt;&lt;p&gt;这次打印圆形置物架的底座。&lt;br&gt;选择材料正确，打印后除了一个直径一毫米的球状突起和几根飘着的丝状物外，没有其他瑕疵；表面光滑，纹路细腻，但侧面，也就是打印时向上的平行面较粗糙，竖直面上偶尔有小的凹陷。整体效果很好。&lt;/p&gt;
+&lt;h4 id=&quot;第四次&quot;&gt;&lt;a href=&quot;#第四次&quot; class=&quot;headerlink&quot; title=&quot;第四次&quot;&gt;&lt;/a&gt;第四次&lt;/h4&gt;&lt;p&gt;打印物品由于具有较小六边形的密铺结构，六边形中间出现拉丝。推测为喷嘴精度不够导致。冲洗后拉丝几乎全部消失。&lt;/p&gt;
+</summary>
     
     
     
@@ -72,12 +74,37 @@
     <link href="https://xeyus.github.io/2024/06/17/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/"/>
     <id>https://xeyus.github.io/2024/06/17/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</id>
     <published>2024-06-17T10:05:41.000Z</published>
-    <updated>2024-06-23T13:43:39.483Z</updated>
+    <updated>2024-06-23T15:30:02.563Z</updated>
     
     
     <summary type="html">&lt;p&gt;由于抱着笔记本电脑看电子书太累，我买了汉王N10mini电子书。&lt;/p&gt;
 &lt;p&gt;今日体验如下。&lt;/p&gt;
-&lt;p&gt;优点：&lt;/p&gt;</summary>
+&lt;p&gt;优点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;无触控屏，像我这样对各种设备都像对可再生垃圾的人不会误触。有效防止吃饭时食物残渣帮我跳页或记笔记。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;反应速度较快，目前记笔记没出现字写上屏幕没反应过来的情况。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;用起来确实是电子书阅读器+电子笔记，做好了本职工作。各项参数，如字体黑度，都可以调整，有效解决电子书排版、显示问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;缺点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;笔记导出为pdf后无法通过发送到邮箱，直接在笔记界面发送到邮箱只能发一条超链接。可能是为了防止本地邮件应用重复保存，但还是不够方便。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;阅读时分屏笔记只能打开与书籍同名的阅读笔记。我确实一直使用这种按书籍分类的笔记方法。但有时我是为了一个目标（如做世界观文化设定）才去看书，这时候我更倾向于在另一个专题笔记里记载所有书内的相关信息。没有这一选择有时比较难受。目前通过设置目录标注某页笔记是为了什么而记解决。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;无法拓展储存空间。本体储存空间够用而且能连接到云盘，所以不算太大的问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;原装保护套容易掉。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;笔记实际可书写区域与空白区域不一致，即页面靠近边缘处实际上不能书写。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</summary>
     
     
     
@@ -93,11 +120,16 @@
     <link href="https://xeyus.github.io/2024/06/13/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9B%B8%E5%85%B3%E8%AE%B0%E5%BD%95/"/>
     <id>https://xeyus.github.io/2024/06/13/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9B%B8%E5%85%B3%E8%AE%B0%E5%BD%95/</id>
     <published>2024-06-13T03:15:41.000Z</published>
-    <updated>2024-06-23T03:49:33.504Z</updated>
+    <updated>2024-06-23T15:30:11.204Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h2&gt;&lt;h3 id=&quot;烧录系统&quot;&gt;&lt;a href=&quot;#烧录系统&quot; class=&quot;headerlink&quot; title=&quot;烧录系统&quot;&gt;&lt;/a&gt;烧录系统&lt;/h3&gt;&lt;p&gt;目前树莓派官网提供一键选择系统并烧录的工具，不必手动下载镜像并导入。&lt;/p&gt;
-&lt;h3 id=&quot;安装散热片、风扇与外壳&quot;&gt;&lt;a href=&quot;#安装散热片、风扇与外壳&quot; class=&quot;headerlink&quot; title=&quot;安装散热片、风扇与外壳&quot;&gt;&lt;/a&gt;安装散热片、风扇与外壳&lt;/h3&gt;&lt;p&gt;我发现商家提供的螺丝只够把风扇安装在亚克力外壳的一片上，而这些亚克力外壳间别说螺丝了，连螺丝口都没有，根本拼不上。&lt;br&gt;尤其是底板，一般来说它上面会有四个和树莓派主板对应的孔用来安装螺丝，但它只是一块普通的亚克力板。&lt;/p&gt;</summary>
+&lt;h3 id=&quot;安装散热片、风扇与外壳&quot;&gt;&lt;a href=&quot;#安装散热片、风扇与外壳&quot; class=&quot;headerlink&quot; title=&quot;安装散热片、风扇与外壳&quot;&gt;&lt;/a&gt;安装散热片、风扇与外壳&lt;/h3&gt;&lt;p&gt;我发现商家提供的螺丝只够把风扇安装在亚克力外壳的一片上，而这些亚克力外壳间别说螺丝了，连螺丝口都没有，根本拼不上。&lt;br&gt;尤其是底板，一般来说它上面会有四个和树莓派主板对应的孔用来安装螺丝，但它只是一块普通的亚克力板。&lt;/p&gt;
+&lt;p&gt;但不安装风扇，树莓派容易过热。&lt;/p&gt;
+&lt;p&gt;于是，我先想到了流麻。&lt;br&gt;做流麻的博主经常用一种紫外灯封住亚克力板。&lt;br&gt;但我没有。&lt;br&gt;此路不通。&lt;/p&gt;
+&lt;p&gt;然后我找到一堆装饰贴纸，长方形带图案。&lt;br&gt;我把它们剪成大小适宜的条或片，准备用它们把亚克力外壳粘起来，一片不够结实就再来几片。&lt;br&gt;用贴纸是因为我没找到胶带、胶水、胶棒。&lt;br&gt;发现有的外壳对不上树莓派的口。&lt;br&gt;此路不通。&lt;/p&gt;
+&lt;p&gt;于是我把一个纸盒（到货时装树莓派的纸盒）侧面开口以让连接线出去。&lt;br&gt;把承载电风扇的板子粘在盖子下面。&lt;br&gt;当然还是用的贴纸。&lt;br&gt;之后沿着纸盒各面接缝粘一圈贴纸。&lt;br&gt;暂时处理好散热和防护问题。&lt;br&gt;等3D打印机到货再打一个正经外壳出来。&lt;/p&gt;
+&lt;h2 id=&quot;开机连接&quot;&gt;&lt;a href=&quot;#开机连接&quot; class=&quot;headerlink&quot; title=&quot;开机连接&quot;&gt;&lt;/a&gt;开机连接&lt;/h2&gt;</summary>
     
     
     
