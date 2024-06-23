@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-06-23T08:01:45.116Z</updated>
+  <updated>2024-06-23T12:19:17.350Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -17,15 +17,53 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>3D打印记录</title>
+    <link href="https://xeyus.github.io/2024/06/23/3D%E6%89%93%E5%8D%B0%E8%AE%B0%E5%BD%95/"/>
+    <id>https://xeyus.github.io/2024/06/23/3D%E6%89%93%E5%8D%B0%E8%AE%B0%E5%BD%95/</id>
+    <published>2024-06-23T12:06:51.000Z</published>
+    <updated>2024-06-23T12:19:17.350Z</updated>
+    
+    
+    <summary type="html">&lt;h4 id=&quot;第一、二次&quot;&gt;&lt;a href=&quot;#第一、二次&quot; class=&quot;headerlink&quot; title=&quot;第一、二次&quot;&gt;&lt;/a&gt;第一、二次&lt;/h4&gt;&lt;p&gt;均由于机器型号和使用材料在切片软件内没设置正确，打出“面条”。&lt;/p&gt;
+&lt;h4 id=&quot;第三次&quot;&gt;&lt;a href=&quot;#第三次&quot; class=&quot;headerlink&quot; title=&quot;第三次&quot;&gt;&lt;/a&gt;第三次&lt;/h4&gt;&lt;p&gt;这次打印圆形置物架的底座。&lt;br&gt;选择材料正确，打印后除了一个直径一毫米的球状突起和几根飘着的丝状物外，没有其他瑕疵；表面光滑，纹路细腻，但侧面，也就是打印时向上的平行面较粗糙，竖直面上偶尔有小的凹陷。整体效果很好。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="DIY" scheme="https://xeyus.github.io/categories/DIY/"/>
+    
+    
+    <category term="3D打印" scheme="https://xeyus.github.io/tags/3D%E6%89%93%E5%8D%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>西周到春秋各个诸侯国的被统治阶级民族组成</title>
     <link href="https://xeyus.github.io/2024/06/23/%E8%A5%BF%E5%91%A8%E5%88%B0%E6%98%A5%E7%A7%8B%E5%90%84%E4%B8%AA%E8%AF%B8%E4%BE%AF%E5%9B%BD%E7%9A%84%E8%A2%AB%E7%BB%9F%E6%B2%BB%E9%98%B6%E7%BA%A7%E6%B0%91%E6%97%8F%E7%BB%84%E6%88%90/"/>
     <id>https://xeyus.github.io/2024/06/23/%E8%A5%BF%E5%91%A8%E5%88%B0%E6%98%A5%E7%A7%8B%E5%90%84%E4%B8%AA%E8%AF%B8%E4%BE%AF%E5%9B%BD%E7%9A%84%E8%A2%AB%E7%BB%9F%E6%B2%BB%E9%98%B6%E7%BA%A7%E6%B0%91%E6%97%8F%E7%BB%84%E6%88%90/</id>
     <published>2024-06-23T08:01:45.000Z</published>
-    <updated>2024-06-23T08:01:45.116Z</updated>
+    <updated>2024-06-23T11:59:50.856Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;alert alert-warning&quot;&gt;&lt;i class=&quot;fa fa-bell  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;本人对历史及其研究方法一窍不通，以下内容均为个人猜测与资料汇总。请谨慎鉴别。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;准备阶段&quot;&gt;&lt;a href=&quot;#准备阶段&quot; class=&quot;headerlink&quot; title=&quot;准备阶段&quot;&gt;&lt;/a&gt;准备阶段&lt;/h2&gt;&lt;p&gt;研究方向：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;寻找前沿期刊、论文&lt;/li&gt;
+&lt;li&gt;根据文献中描述反推民族组成。但这个方法很难定量分析。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h2&gt;&lt;h3 id&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title&gt;&lt;/a&gt;&lt;/h3&gt;</summary>
     
     
     
+    <category term="研究" scheme="https://xeyus.github.io/categories/%E7%A0%94%E7%A9%B6/"/>
     
+    
+    <category term="历史" scheme="https://xeyus.github.io/tags/%E5%8E%86%E5%8F%B2/"/>
+    
+    <category term="委托" scheme="https://xeyus.github.io/tags/%E5%A7%94%E6%89%98/"/>
+    
+    <category term="民族" scheme="https://xeyus.github.io/tags/%E6%B0%91%E6%97%8F/"/>
     
   </entry>
   
@@ -34,7 +72,7 @@
     <link href="https://xeyus.github.io/2024/06/17/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/"/>
     <id>https://xeyus.github.io/2024/06/17/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</id>
     <published>2024-06-17T10:05:41.000Z</published>
-    <updated>2024-06-23T03:50:04.463Z</updated>
+    <updated>2024-06-23T13:43:39.483Z</updated>
     
     
     <summary type="html">&lt;p&gt;由于抱着笔记本电脑看电子书太累，我买了汉王N10mini电子书。&lt;/p&gt;
