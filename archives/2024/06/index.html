@@ -42,12 +42,6 @@
 
   <script src="/js/jquery-2.0.3.min.js"></script>
   
-    <script src="/js/marked.js"></script>
-    <script src="/js/comment.js"></script>
-    <script src="/js/timeago.min.js"></script>
-    <script src="/js/highlight.min.js"></script>
-	<script src="/js/spin.min.js"></script>
-  
   
   <!-- analytics -->
   
@@ -165,20 +159,6 @@
 		
 			<div class="widget">
     
-	    <h4 class="dsq-widget-title">最新留言</h4>
-		<div id="recent-comments"></div>
-		<script type="text/javascript">
-		    getRecentCommentsList({
-			   type: "github" ? "github" : "github",
-			   user: "wzpan",
-               repo: "hexo-theme-freemind-blog",
-               client_id: "bf7d4ba11877db88543e",
-               client_secret: "bff8a6b06b745c0bfcdccbe225623ea8e2a057bb",
-			   count: "5" ? "5" : 5,
-			   recent_comments_target: "#recent-comments"
-			});
-		</script>
-	
 </div>
 
 		
@@ -200,9 +180,9 @@
 		<h4>标签云</h4>
 		<ul class="tag_box inline list-unstyled">		
 		
-			<li><a href="/tags/%E7%89%A9%E5%93%81%E8%AF%84%E6%B5%8B/">物品评测<span>1</span></a></li>
-		
 			<li><a href="/tags/%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81/">电子产品<span>1</span></a></li>
+		
+			<li><a href="/tags/%E7%89%A9%E5%93%81%E8%AF%84%E6%B5%8B/">物品评测<span>1</span></a></li>
 		
 		 
 		</ul>
@@ -236,7 +216,7 @@
 	
 		<li><i class="fa fa-github"></i><a href="http://www.github.com/Xeyus" title="My Github account." target="_blank"]);">My Github</a></li>
 	
-		<li><i class=""></i><a href="mailto:XeyusLi@outlook.com" title="My E-mail account" target="_blank"]);">My E-mail</a></li>
+		<li><i class="fa fa-envelope"></i><a href="mailto:XeyusLi@outlook.com" title="My E-mail account" target="_blank"]);">My E-mail</a></li>
 	
 	</ul>
 </div>
@@ -301,22 +281,6 @@
 
 
 <!-- syntax highlighting -->
-
-  <script>
-  marked.setOptions({
-    highlight: function (code, lang) {
-        return hljs.highlightAuto(code).value;
-    }
-  });
-  function Highlighting(){
-    var markdowns = document.getElementsByClassName('markdown');
-    for(var i=0;i<markdowns.length;i++){
-        if(markdowns[i].innerHTML) markdowns[i].innerHTML =marked(markdowns[i].innerHTML);
-    }
-  }
-  window.addEventListener('DOMContentLoaded', Highlighting, false);
-  window.addEventListener('load', Highlighting, false);
-  </script>
 
 
 </body>

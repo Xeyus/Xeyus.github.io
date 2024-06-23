@@ -42,12 +42,6 @@
 
   <script src="/js/jquery-2.0.3.min.js"></script>
   
-    <script src="/js/marked.js"></script>
-    <script src="/js/comment.js"></script>
-    <script src="/js/timeago.min.js"></script>
-    <script src="/js/highlight.min.js"></script>
-	<script src="/js/spin.min.js"></script>
-  
   
   <!-- analytics -->
   
@@ -152,24 +146,6 @@
 		<p>由于抱着笔记本电脑看电子书太累，我买了汉王N10mini电子书。</p>
 <p>今日体验如下。</p>
 <p>优点：</p>
-<ol>
-<li><p>无触控屏，像我这样对各种设备都像对可再生垃圾的人不会误触。有效防止吃饭时食物残渣帮我跳页或记笔记。</p>
-</li>
-<li><p>反应速度较快，目前记笔记没出现字写上屏幕没反应过来的情况。</p>
-</li>
-<li><p>用起来确实是电子书阅读器+电子笔记，做好了本职工作。各项参数，如字体黑度，都可以调整，有效解决电子书排版、显示问题。</p>
-</li>
-</ol>
-<p>缺点：</p>
-<ol>
-<li><p>笔记导出为pdf后无法通过发送到邮箱，直接在笔记界面发送到邮箱只能发一条超链接。可能是为了防止本地邮件应用重复保存，但还是不够方便。</p>
-</li>
-<li><p>阅读时分屏笔记只能打开与书籍同名的阅读笔记。我确实一直使用这种按书籍分类的笔记方法。但有时我是为了一个目标（如做世界观文化设定）才去看书，这时候我更倾向于在另一个专题笔记里记载所有书内的相关信息。没有这一选择有时比较难受。目前通过设置目录标注某页笔记是为了什么而记解决。</p>
-</li>
-<li><p>无法拓展储存空间。本体储存空间够用而且能连接到云盘，所以不算太大的问题。</p>
-</li>
-</ol>
-
 	
 	</div>
   <a type="button" href="/2024/06/17/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/#more" class="btn btn-default more">阅读此文</a>
@@ -196,20 +172,6 @@
 	
 		<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="烧录系统"><a href="#烧录系统" class="headerlink" title="烧录系统"></a>烧录系统</h3><p>目前树莓派官网提供一键选择系统并烧录的工具，不必手动下载镜像并导入。</p>
 <h3 id="安装散热片、风扇与外壳"><a href="#安装散热片、风扇与外壳" class="headerlink" title="安装散热片、风扇与外壳"></a>安装散热片、风扇与外壳</h3><p>我发现商家提供的螺丝只够把风扇安装在亚克力外壳的一片上，而这些亚克力外壳间别说螺丝了，连螺丝口都没有，根本拼不上。<br>尤其是底板，一般来说它上面会有四个和树莓派主板对应的孔用来安装螺丝，但它只是一块普通的亚克力板。</p>
-<p>但不安装风扇，树莓派容易过热。</p>
-<p>于是，我先想到了流麻。<br>做流麻的博主经常用一种紫外灯封住亚克力板。<br>但我没有。<br>此路不通。</p>
-<p>然后我找到一堆装饰贴纸，长方形带图案。<br>我把它们剪成大小适宜的条或片，准备用它们把亚克力外壳粘起来，一片不够结实就再来几片。<br>用贴纸是因为我没找到胶带、胶水、胶棒。<br>发现有的外壳对不上树莓派的口。<br>此路不通。</p>
-<p>于是我把一个纸盒（到货时装树莓派的纸盒）侧面开口以让连接线出去。<br>把承载电风扇的板子粘在盖子下面。<br>当然还是用的贴纸。<br>之后沿着纸盒各面接缝粘一圈贴纸。<br>暂时处理好散热和防护问题。<br>等3D打印机到货再打一个正经外壳出来。</p>
-<h2 id="开机连接"><a href="#开机连接" class="headerlink" title="开机连接"></a>开机连接</h2><p>由于没买屏幕，我选择SSH连接。<br>（刚处理好外壳点的餐就到了，先吃饭去。）</p>
-<p>回来后，怎么也连不上，一直显示connection refused。<br>重新检查SD卡后发现，ssh文件消失了。<br>创建ssh文件后，仍然连接不上。</p>
-<p>检查后，发现是我在SD卡内做的除了创建ssh文件外的更改都成功保存，只有ssh文件创建一次消失一次。</p>
-<p>格式化SD卡后，重新使用树莓派镜像烧录器时，我直接选择启用SSH服务。<br>之前没发现还能自定义设置。<br>希望这次能成功。</p>
-<p>但是仍然不好使。</p>
-<p>目前一般都是卡在输入密码上。<br>不论是输入烧录时设置的默认密码，还是不输入密码直接按回车，还是重新默认配置烧录，都无法通过密码验证。<br>而且如果在烧录时选择启用SSH服务，连这一步都走不到，ping检测发现连接超时。<br>于是我选择取消启用SSH服务，只设置用户名和密码（pi和raspberry）重新烧录并检测。</p>
-<p>依然是能连上设置的wifi但依然ping检测连接超时。</p>
-<p>如果烧录时保持默认设置，则依然卡在输入密码上。<br>可以连接、输入用户名，但是密码永远不正确。</p>
-<p>所以目前进行不下去了。</p>
-
 	
 	</div>
   <a type="button" href="/2024/06/13/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9B%B8%E5%85%B3%E8%AE%B0%E5%BD%95/#more" class="btn btn-default more">阅读此文</a>
@@ -252,20 +214,6 @@
 		
 			<div class="widget">
     
-	    <h4 class="dsq-widget-title">最新留言</h4>
-		<div id="recent-comments"></div>
-		<script type="text/javascript">
-		    getRecentCommentsList({
-			   type: "github" ? "github" : "github",
-			   user: "wzpan",
-               repo: "hexo-theme-freemind-blog",
-               client_id: "bf7d4ba11877db88543e",
-               client_secret: "bff8a6b06b745c0bfcdccbe225623ea8e2a057bb",
-			   count: "5" ? "5" : 5,
-			   recent_comments_target: "#recent-comments"
-			});
-		</script>
-	
 </div>
 
 		
@@ -287,9 +235,9 @@
 		<h4>标签云</h4>
 		<ul class="tag_box inline list-unstyled">		
 		
-			<li><a href="/tags/%E7%89%A9%E5%93%81%E8%AF%84%E6%B5%8B/">物品评测<span>1</span></a></li>
-		
 			<li><a href="/tags/%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81/">电子产品<span>1</span></a></li>
+		
+			<li><a href="/tags/%E7%89%A9%E5%93%81%E8%AF%84%E6%B5%8B/">物品评测<span>1</span></a></li>
 		
 		 
 		</ul>
@@ -323,7 +271,7 @@
 	
 		<li><i class="fa fa-github"></i><a href="http://www.github.com/Xeyus" title="My Github account." target="_blank"]);">My Github</a></li>
 	
-		<li><i class=""></i><a href="mailto:XeyusLi@outlook.com" title="My E-mail account" target="_blank"]);">My E-mail</a></li>
+		<li><i class="fa fa-envelope"></i><a href="mailto:XeyusLi@outlook.com" title="My E-mail account" target="_blank"]);">My E-mail</a></li>
 	
 	</ul>
 </div>
@@ -390,22 +338,6 @@
 
 
 <!-- syntax highlighting -->
-
-  <script>
-  marked.setOptions({
-    highlight: function (code, lang) {
-        return hljs.highlightAuto(code).value;
-    }
-  });
-  function Highlighting(){
-    var markdowns = document.getElementsByClassName('markdown');
-    for(var i=0;i<markdowns.length;i++){
-        if(markdowns[i].innerHTML) markdowns[i].innerHTML =marked(markdowns[i].innerHTML);
-    }
-  }
-  window.addEventListener('DOMContentLoaded', Highlighting, false);
-  window.addEventListener('load', Highlighting, false);
-  </script>
 
 
 </body>

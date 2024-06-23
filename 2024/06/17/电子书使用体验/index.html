@@ -42,12 +42,6 @@
 
   <script src="/js/jquery-2.0.3.min.js"></script>
   
-    <script src="/js/marked.js"></script>
-    <script src="/js/comment.js"></script>
-    <script src="/js/timeago.min.js"></script>
-    <script src="/js/highlight.min.js"></script>
-	<script src="/js/spin.min.js"></script>
-  
   
   <!-- analytics -->
   
@@ -129,6 +123,8 @@
 	  <p>由于抱着笔记本电脑看电子书太累，我买了汉王N10mini电子书。</p>
 <p>今日体验如下。</p>
 <p>优点：</p>
+<span id="more"></span>
+
 <ol>
 <li><p>无触控屏，像我这样对各种设备都像对可再生垃圾的人不会误触。有效防止吃饭时食物残渣帮我跳页或记笔记。</p>
 </li>
@@ -201,26 +197,6 @@
 	
 <section id="comment">
   <h2 class="title">留言</h2>
-    	 
-	 <div id="comment-thread"></div>
-	 <div id="loading-spin"></div>
-	 <script type="text/javascript">
-	   getComments({
-           type: "github" ? "github" : "github",       
-	       user: "wzpan",
-	       repo: "hexo-theme-freemind-blog",
-		   client_id: "bf7d4ba11877db88543e",
-           client_secret: "bff8a6b06b745c0bfcdccbe225623ea8e2a057bb",
-		   no_comment: "暂时还没有留言呢，点击下面的按钮去留言吧！",
-		   go_to_comment: "去留言",
-		   no_issue: "no_issue",
-		   issue_title: "电子书使用体验",
-		   issue_id: "",
-		   btn_class: "btn btn-primary",
-		   comments_target: "#comment-thread",
-		   loading_target: "#loading_spin"
-		   });
-	 </script>
   
 </section>
 
@@ -327,22 +303,6 @@
 
 
 <!-- syntax highlighting -->
-
-  <script>
-  marked.setOptions({
-    highlight: function (code, lang) {
-        return hljs.highlightAuto(code).value;
-    }
-  });
-  function Highlighting(){
-    var markdowns = document.getElementsByClassName('markdown');
-    for(var i=0;i<markdowns.length;i++){
-        if(markdowns[i].innerHTML) markdowns[i].innerHTML =marked(markdowns[i].innerHTML);
-    }
-  }
-  window.addEventListener('DOMContentLoaded', Highlighting, false);
-  window.addEventListener('load', Highlighting, false);
-  </script>
 
 
 </body>
