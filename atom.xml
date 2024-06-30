@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-06-23T15:29:51.269Z</updated>
+  <updated>2024-06-28T15:02:16.240Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -17,17 +17,73 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>记录-音乐</title>
+    <link href="https://xeyus.github.io/2024/06/28/%E8%AE%B0%E5%BD%95-%E9%9F%B3%E4%B9%90/"/>
+    <id>https://xeyus.github.io/2024/06/28/%E8%AE%B0%E5%BD%95-%E9%9F%B3%E4%B9%90/</id>
+    <published>2024-06-28T15:02:16.000Z</published>
+    <updated>2024-06-28T15:02:16.240Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>记录-超现实主义</title>
+    <link href="https://xeyus.github.io/2024/06/28/%E8%AE%B0%E5%BD%95-%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
+    <id>https://xeyus.github.io/2024/06/28/%E8%AE%B0%E5%BD%95-%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89/</id>
+    <published>2024-06-28T15:01:50.000Z</published>
+    <updated>2024-06-28T15:01:50.675Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>软件推荐-Anytype</title>
+    <link href="https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/"/>
+    <id>https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/</id>
+    <published>2024-06-28T15:00:28.000Z</published>
+    <updated>2024-06-30T13:14:31.065Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;官网地址：&lt;a href=&quot;https://anytype.io/&quot;&gt;https://anytype.io/&lt;/a&gt;&lt;br&gt;官方教程：&lt;a href=&quot;https://doc.anytype.io/anytype-docs/v/documentation_cn&quot;&gt;https://doc.anytype.io/anytype-docs/v/documentation_cn&lt;/a&gt;&lt;br&gt;论坛：&lt;a href=&quot;https://community.anytype.io/&quot;&gt;https://community.anytype.io/&lt;/a&gt;    &lt;/p&gt;
+&lt;p&gt;正如官网介绍，Anytype是一款开源、注重隐私、本地优先的“The Everything App”。从我个人的使用上看，它的确有着强大的数据管理功能，以及由此延申的高度自定义使用方式。应用上的笔记、数据与知识管理、任务管理，或是形式上的看板、卡片等，只要你想，它就能做。   &lt;/p&gt;
+&lt;p&gt;我并未过多接触过其他笔记软件：Notion和Logseq因为太卡浅尝辄止，尤其是Logseq，我拿它做了两天课堂笔记后它就开始卡了；&lt;br&gt;Obsidian确实不错，但我并没有继续使用，最主要的原因是我不需要块级双向链接整理笔记，以及Anytype的文件组织形式完全符合我的要求；&lt;br&gt;其他云笔记已经因为刚需联网和数据安全问题，被关在了选择的门外。&lt;br&gt;所以接下来的内容只聚焦于Anytype本身，不会涉及其他笔记软件，有对比不同软件需求的请自行查找资料。同时，接下来的内容更多聚焦于我的使用方法和体验，有关Anytype的术语和其他信息请查看官方教程。   &lt;/p&gt;
+&lt;div class=&quot;alert alert-success&quot;&gt;&lt;i class=&quot;fa fa-lightbulb-o  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;不过我会解释出现的术语。本文假设读者并未使用过Anytype，也未阅读过其官方教程。&lt;/p&gt;
+&lt;/div&gt;   
+
+&lt;h2 id=&quot;基础信息&quot;&gt;&lt;a href=&quot;#基础信息&quot; class=&quot;headerlink&quot; title=&quot;基础信息&quot;&gt;&lt;/a&gt;基础信息&lt;/h2&gt;&lt;p&gt;Anytype所有功能免费，拓展加密节点存储空间（IPFS云端备份）和共享空间数量需要付费。Anytype代码开源。可以在社区提出需求和交代bug，并交流使用方法。可在Github查看官方路线图。  &lt;/p&gt;
+&lt;h2 id=&quot;下载与储存&quot;&gt;&lt;a href=&quot;#下载与储存&quot; class=&quot;headerlink&quot; title=&quot;下载与储存&quot;&gt;&lt;/a&gt;下载与储存&lt;/h2&gt;&lt;h3 id=&quot;多平台支持&quot;&gt;&lt;a href=&quot;#多平台支持&quot; class=&quot;headerlink&quot; title=&quot;多平台支持&quot;&gt;&lt;/a&gt;多平台支持&lt;/h3&gt;&lt;p&gt;Anytype支持大部分主流系统，但优先更新对Windows和Linux系统的支持。它同时支持自托管，不过对于普通用户来说没有这个必要。   &lt;/p&gt;
+&lt;h3 id=&quot;大小&quot;&gt;&lt;a href=&quot;#大小&quot; class=&quot;headerlink&quot; title=&quot;大小&quot;&gt;&lt;/a&gt;大小&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="推荐" scheme="https://xeyus.github.io/categories/%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="软件" scheme="https://xeyus.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>3D打印记录</title>
     <link href="https://xeyus.github.io/2024/06/23/3D%E6%89%93%E5%8D%B0%E8%AE%B0%E5%BD%95/"/>
     <id>https://xeyus.github.io/2024/06/23/3D%E6%89%93%E5%8D%B0%E8%AE%B0%E5%BD%95/</id>
     <published>2024-06-23T12:06:51.000Z</published>
-    <updated>2024-06-23T15:29:51.269Z</updated>
+    <updated>2024-06-28T15:11:06.679Z</updated>
     
     
     <summary type="html">&lt;h4 id=&quot;第一、二次&quot;&gt;&lt;a href=&quot;#第一、二次&quot; class=&quot;headerlink&quot; title=&quot;第一、二次&quot;&gt;&lt;/a&gt;第一、二次&lt;/h4&gt;&lt;p&gt;均由于机器型号和使用材料在切片软件内没设置正确，打出“面条”。&lt;/p&gt;
 &lt;h4 id=&quot;第三次&quot;&gt;&lt;a href=&quot;#第三次&quot; class=&quot;headerlink&quot; title=&quot;第三次&quot;&gt;&lt;/a&gt;第三次&lt;/h4&gt;&lt;p&gt;这次打印圆形置物架的底座。&lt;br&gt;选择材料正确，打印后除了一个直径一毫米的球状突起和几根飘着的丝状物外，没有其他瑕疵；表面光滑，纹路细腻，但侧面，也就是打印时向上的平行面较粗糙，竖直面上偶尔有小的凹陷。整体效果很好。&lt;/p&gt;
 &lt;h4 id=&quot;第四次&quot;&gt;&lt;a href=&quot;#第四次&quot; class=&quot;headerlink&quot; title=&quot;第四次&quot;&gt;&lt;/a&gt;第四次&lt;/h4&gt;&lt;p&gt;打印物品由于具有较小六边形的密铺结构，六边形中间出现拉丝。推测为喷嘴精度不够导致。冲洗后拉丝几乎全部消失。&lt;/p&gt;
-</summary>
+&lt;h4 id=&quot;第五次&quot;&gt;&lt;a href=&quot;#第五次&quot; class=&quot;headerlink&quot; title=&quot;第五次&quot;&gt;&lt;/a&gt;第五次&lt;/h4&gt;&lt;p&gt;打印奈亚的夜吼者化身，拆支撑结构比较顺利。除了拆完支撑结构后用砂纸打磨拆除处花了不少时间外，没有别的问题。&lt;/p&gt;
+&lt;h4 id=&quot;第六次&quot;&gt;&lt;a href=&quot;#第六次&quot; class=&quot;headerlink&quot; title=&quot;第六次&quot;&gt;&lt;/a&gt;第六次&lt;/h4&gt;&lt;p&gt;打印一个小小的头骨模型。由于打印完忘了还有这事，隔了一天想起来，很难把它从热床上起下来。事实上把模型从热床上起下来一直令我头疼，早了太烫，晚了难办。&lt;br&gt;解决方法：准备整个更好的热床刮刀，支持整体刮（宽大的薄层结构）和定点起（螺丝刀状结构）。&lt;/p&gt;</summary>
     
     
     
