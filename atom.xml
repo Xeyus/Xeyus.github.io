@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-07-01T09:03:17.450Z</updated>
+  <updated>2024-07-04T14:54:54.944Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>知识、笔记、Article</title>
-    <link href="https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/"/>
-    <id>https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/</id>
-    <published>2024-06-28T15:00:28.000Z</published>
-    <updated>2024-07-01T09:03:17.450Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;知识处于认知的第一级，是“输入”。笔记处于认知的第二级，是“整理”，可以从知识中发现问题，也会埋下生长出新知识的种子。“Article”处于认知的第三级，是“输出”，可以创造。   &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="知识" scheme="https://xeyus.github.io/tags/%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
   
   <entry>
     <title>软件推荐-Anytype</title>
@@ -56,6 +35,27 @@
     <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="软件" scheme="https://xeyus.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>知识、笔记、Article</title>
+    <link href="https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/"/>
+    <id>https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/</id>
+    <published>2024-06-28T15:00:28.000Z</published>
+    <updated>2024-07-01T09:03:17.450Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;知识处于认知的第一级，是“输入”。笔记处于认知的第二级，是“整理”，可以从知识中发现问题，也会埋下生长出新知识的种子。“Article”处于认知的第三级，是“输出”，可以创造。   &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="知识" scheme="https://xeyus.github.io/tags/%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
