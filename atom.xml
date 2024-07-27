@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Xeyus&#39;Archive</title>
-  <icon>https://xeyus.github.io/images/favicon_200x200.png</icon>
+  <icon>https://xeyus.github.io/images/rss.svg</icon>
   <subtitle>某人的档案室</subtitle>
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-07-25T03:52:12.842Z</updated>
+  <updated>2024-07-26T16:45:11.639Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>镜子</title>
+    <link href="https://xeyus.github.io/2024/07/27/%E9%95%9C%E5%AD%90/"/>
+    <id>https://xeyus.github.io/2024/07/27/%E9%95%9C%E5%AD%90/</id>
+    <published>2024-07-26T16:00:19.000Z</published>
+    <updated>2024-07-26T16:45:11.639Z</updated>
+    
+    
+    <summary type="html">再近一点，让各个时间再近一点，好让我们对比出现在的面貌。</summary>
+    
+    
+    
+    <category term="文学作品" scheme="https://xeyus.github.io/categories/%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81/"/>
+    
+    
+    <category term="记" scheme="https://xeyus.github.io/tags/%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>购买二手书</title>
+    <link href="https://xeyus.github.io/2024/07/25/%E8%B4%AD%E4%B9%B0%E4%BA%8C%E6%89%8B%E4%B9%A6/"/>
+    <id>https://xeyus.github.io/2024/07/25/%E8%B4%AD%E4%B9%B0%E4%BA%8C%E6%89%8B%E4%B9%A6/</id>
+    <published>2024-07-25T12:45:51.000Z</published>
+    <updated>2024-07-27T06:19:05.515Z</updated>
+    
+    
+    <summary type="html">记录自己买到的二手书，评价二手书购买渠道</summary>
+    
+    
+    
+    <category term="日常记录" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="书籍" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E7%B1%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>聊天耗费精力，但</title>
@@ -95,27 +133,6 @@
   </entry>
   
   <entry>
-    <title>知识、笔记、Article</title>
-    <link href="https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/"/>
-    <id>https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/</id>
-    <published>2024-06-28T15:00:28.000Z</published>
-    <updated>2024-07-24T12:03:38.963Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;知识处于认知的第一级，是“输入”。笔记处于认知的第二级，是“整理”，可以从知识中发现问题，也会埋下生长出新知识的种子。“Article”处于认知的第三级，是“输出”，可以创造。   &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="知识" scheme="https://xeyus.github.io/tags/%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
     <title>软件推荐-Anytype</title>
     <link href="https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/"/>
     <id>https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/</id>
@@ -138,11 +155,32 @@
   </entry>
   
   <entry>
+    <title>知识、笔记、Article</title>
+    <link href="https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/"/>
+    <id>https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/</id>
+    <published>2024-06-28T15:00:28.000Z</published>
+    <updated>2024-07-24T12:03:38.963Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;知识处于认知的第一级，是“输入”。笔记处于认知的第二级，是“整理”，可以从知识中发现问题，也会埋下生长出新知识的种子。“Article”处于认知的第三级，是“输出”，可以创造。   &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="知识" scheme="https://xeyus.github.io/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>3D打印记录</title>
     <link href="https://xeyus.github.io/2024/06/23/3D%E6%89%93%E5%8D%B0%E8%AE%B0%E5%BD%95/"/>
     <id>https://xeyus.github.io/2024/06/23/3D%E6%89%93%E5%8D%B0%E8%AE%B0%E5%BD%95/</id>
     <published>2024-06-23T12:06:51.000Z</published>
-    <updated>2024-07-22T08:35:27.815Z</updated>
+    <updated>2024-07-25T07:21:45.785Z</updated>
     
     
     <summary type="html">&lt;p&gt;只是记录。&lt;/p&gt;</summary>
