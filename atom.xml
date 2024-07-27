@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-07-26T16:45:11.639Z</updated>
+  <updated>2024-07-27T17:53:04.559Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>只有自动写作能让我说出真话</title>
+    <link href="https://xeyus.github.io/2024/07/28/%E5%8F%AA%E6%9C%89%E8%87%AA%E5%8A%A8%E5%86%99%E4%BD%9C%E8%83%BD%E8%AE%A9%E6%88%91%E8%AF%B4%E5%87%BA%E7%9C%9F%E8%AF%9D/"/>
+    <id>https://xeyus.github.io/2024/07/28/%E5%8F%AA%E6%9C%89%E8%87%AA%E5%8A%A8%E5%86%99%E4%BD%9C%E8%83%BD%E8%AE%A9%E6%88%91%E8%AF%B4%E5%87%BA%E7%9C%9F%E8%AF%9D/</id>
+    <published>2024-07-27T17:50:50.000Z</published>
+    <updated>2024-07-27T17:53:04.559Z</updated>
+    
+    
+    <summary type="html">我不在此监督一言一行，想象我或他人（并无太大区别）看到它的反应：我只充当载体和引导者时，我才得以展现。</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="自我" scheme="https://xeyus.github.io/tags/%E8%87%AA%E6%88%91/"/>
+    
+    <category term="分析" scheme="https://xeyus.github.io/tags/%E5%88%86%E6%9E%90/"/>
+    
+    <category term="超现实主义" scheme="https://xeyus.github.io/tags/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
+    
+  </entry>
   
   <entry>
     <title>镜子</title>
@@ -59,7 +82,7 @@
     <link href="https://xeyus.github.io/2024/07/25/%E8%81%8A%E5%A4%A9%E8%80%97%E8%B4%B9%E7%B2%BE%E5%8A%9B%EF%BC%8C%E4%BD%86/"/>
     <id>https://xeyus.github.io/2024/07/25/%E8%81%8A%E5%A4%A9%E8%80%97%E8%B4%B9%E7%B2%BE%E5%8A%9B%EF%BC%8C%E4%BD%86/</id>
     <published>2024-07-24T16:36:31.000Z</published>
-    <updated>2024-07-25T03:52:12.842Z</updated>
+    <updated>2024-07-27T17:50:15.828Z</updated>
     
     
     <summary type="html">回过头来写简介时，意识到我后来开始试着实践超现实主义自动写作了。感觉不错。打上相关tag就睡觉（来自……凌晨1点55？）。</summary>
@@ -133,6 +156,27 @@
   </entry>
   
   <entry>
+    <title>知识、笔记、Article</title>
+    <link href="https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/"/>
+    <id>https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/</id>
+    <published>2024-06-28T15:00:28.000Z</published>
+    <updated>2024-07-27T13:16:43.963Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;知识处于认知的第一级，是“输入”。笔记处于认知的第二级，是“整理”，可以从知识中发现问题，也会埋下生长出新知识的种子。“Article”处于认知的第三级，是“输出”，可以创造。   &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="知识" scheme="https://xeyus.github.io/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>软件推荐-Anytype</title>
     <link href="https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/"/>
     <id>https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/</id>
@@ -151,27 +195,6 @@
     <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="软件" scheme="https://xeyus.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>知识、笔记、Article</title>
-    <link href="https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/"/>
-    <id>https://xeyus.github.io/2024/06/28/%E7%9F%A5%E8%AF%86-%E7%AC%94%E8%AE%B0-Article/</id>
-    <published>2024-06-28T15:00:28.000Z</published>
-    <updated>2024-07-27T13:16:43.963Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;知识处于认知的第一级，是“输入”。笔记处于认知的第二级，是“整理”，可以从知识中发现问题，也会埋下生长出新知识的种子。“Article”处于认知的第三级，是“输出”，可以创造。   &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="知识" scheme="https://xeyus.github.io/tags/%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
