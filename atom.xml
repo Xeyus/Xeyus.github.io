@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-07-31T16:48:33.020Z</updated>
+  <updated>2024-08-04T17:46:18.628Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,69 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SCP-2700杂谈</title>
+    <link href="https://xeyus.github.io/2024/08/05/SCP-2700%E6%9D%82%E8%B0%88/"/>
+    <id>https://xeyus.github.io/2024/08/05/SCP-2700%E6%9D%82%E8%B0%88/</id>
+    <published>2024-08-04T17:10:16.000Z</published>
+    <updated>2024-08-04T17:46:18.628Z</updated>
+    
+    
+    <summary type="html">他如愿以偿地赢来了事与愿违的结果，然后……</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="SCP" scheme="https://xeyus.github.io/tags/SCP/"/>
+    
+    <category term="尼古拉·特斯拉" scheme="https://xeyus.github.io/tags/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89/"/>
+    
+    <category term="超人" scheme="https://xeyus.github.io/tags/%E8%B6%85%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>物象恐惧症</title>
+    <link href="https://xeyus.github.io/2024/08/05/%E7%89%A9%E8%B1%A1%E6%81%90%E6%83%A7%E7%97%87/"/>
+    <id>https://xeyus.github.io/2024/08/05/%E7%89%A9%E8%B1%A1%E6%81%90%E6%83%A7%E7%97%87/</id>
+    <published>2024-08-04T17:10:04.000Z</published>
+    <updated>2024-08-04T17:13:00.543Z</updated>
+    
+    
+    <summary type="html">我不喜欢印花，所以有了这个。</summary>
+    
+    
+    
+    <category term="设定" scheme="https://xeyus.github.io/categories/%E8%AE%BE%E5%AE%9A/"/>
+    
+    
+    <category term="癔症" scheme="https://xeyus.github.io/tags/%E7%99%94%E7%97%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么要写博客</title>
+    <link href="https://xeyus.github.io/2024/08/05/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://xeyus.github.io/2024/08/05/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/</id>
+    <published>2024-08-04T17:09:41.000Z</published>
+    <updated>2024-08-04T17:47:20.948Z</updated>
+    
+    
+    <summary type="html">因为闲得慌？</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="博客" scheme="https://xeyus.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="写作" scheme="https://xeyus.github.io/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>只有自动写作能让我说出真话</title>
@@ -181,7 +244,7 @@
     <link href="https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/"/>
     <id>https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/</id>
     <published>2024-06-28T15:00:28.000Z</published>
-    <updated>2024-07-23T07:43:32.522Z</updated>
+    <updated>2024-08-01T10:54:06.123Z</updated>
     
     
     <summary type="html">&lt;p&gt;官网地址：&lt;a href=&quot;https://anytype.io/&quot;&gt;https://anytype.io/&lt;/a&gt;&lt;br&gt;官方教程：&lt;a href=&quot;https://doc.anytype.io/anytype-docs/v/documentation_cn&quot;&gt;https://doc.anytype.io/anytype-docs/v/documentation_cn&lt;/a&gt;&lt;br&gt;论坛：&lt;a href=&quot;https://community.anytype.io/&quot;&gt;https://community.anytype.io/&lt;/a&gt;    &lt;/p&gt;
