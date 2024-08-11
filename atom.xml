@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-08-04T17:46:18.628Z</updated>
+  <updated>2024-08-11T13:30:16.515Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>SCP-2700杂谈</title>
-    <link href="https://xeyus.github.io/2024/08/05/SCP-2700%E6%9D%82%E8%B0%88/"/>
-    <id>https://xeyus.github.io/2024/08/05/SCP-2700%E6%9D%82%E8%B0%88/</id>
-    <published>2024-08-04T17:10:16.000Z</published>
-    <updated>2024-08-04T17:46:18.628Z</updated>
+    <link href="https://xeyus.github.io/2024/08/11/SCP-2700%E6%9D%82%E8%B0%88/"/>
+    <id>https://xeyus.github.io/2024/08/11/SCP-2700%E6%9D%82%E8%B0%88/</id>
+    <published>2024-08-11T11:10:16.000Z</published>
+    <updated>2024-08-11T13:30:16.515Z</updated>
     
     
     <summary type="html">他如愿以偿地赢来了事与愿违的结果，然后……</summary>
@@ -36,6 +36,55 @@
     <category term="尼古拉·特斯拉" scheme="https://xeyus.github.io/tags/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89/"/>
     
     <category term="超人" scheme="https://xeyus.github.io/tags/%E8%B6%85%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>反对方法：无政府主义知识论纲要</title>
+    <link href="https://xeyus.github.io/2024/08/10/%E5%8F%8D%E5%AF%B9%E6%96%B9%E6%B3%95%EF%BC%9A%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89%E7%9F%A5%E8%AF%86%E8%AE%BA%E7%BA%B2%E8%A6%81/"/>
+    <id>https://xeyus.github.io/2024/08/10/%E5%8F%8D%E5%AF%B9%E6%96%B9%E6%B3%95%EF%BC%9A%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89%E7%9F%A5%E8%AF%86%E8%AE%BA%E7%BA%B2%E8%A6%81/</id>
+    <published>2024-08-10T07:11:45.000Z</published>
+    <updated>2024-08-11T13:41:58.923Z</updated>
+    
+    
+    <summary type="html">进步需要更开阔的思维、更大胆的假设、更多样的方法。</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>读报手册</title>
+    <link href="https://xeyus.github.io/2024/08/10/%E8%AF%BB%E6%8A%A5%E6%89%8B%E5%86%8C/"/>
+    <id>https://xeyus.github.io/2024/08/10/%E8%AF%BB%E6%8A%A5%E6%89%8B%E5%86%8C/</id>
+    <published>2024-08-10T07:11:24.000Z</published>
+    <updated>2024-08-11T11:10:40.477Z</updated>
+    
+    
+    <summary type="html">作为宣传手册，它确实巩固了意识形态并普及了知识。但是作为普及性手册，存在一些错误，没有体现出编者的水平。如果更严重地说，甚至没有体现辩证唯物主义、历史唯物主义和对人民智力的尊重。</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>普及知识</title>
+    <link href="https://xeyus.github.io/2024/08/10/%E6%99%AE%E5%8F%8A%E7%9F%A5%E8%AF%86/"/>
+    <id>https://xeyus.github.io/2024/08/10/%E6%99%AE%E5%8F%8A%E7%9F%A5%E8%AF%86/</id>
+    <published>2024-08-10T06:55:26.000Z</published>
+    <updated>2024-08-10T07:08:48.837Z</updated>
+    
+    
+    <summary type="html">改变错误认知并不容易，也并不必要</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="维持现状" scheme="https://xeyus.github.io/tags/%E7%BB%B4%E6%8C%81%E7%8E%B0%E7%8A%B6/"/>
     
   </entry>
   
@@ -166,7 +215,7 @@
     <link href="https://xeyus.github.io/2024/07/24/%E5%AF%BC%E8%88%AA/"/>
     <id>https://xeyus.github.io/2024/07/24/%E5%AF%BC%E8%88%AA/</id>
     <published>2024-07-24T12:06:22.000Z</published>
-    <updated>2024-08-04T17:57:33.014Z</updated>
+    <updated>2024-08-04T18:01:21.216Z</updated>
     
     
     <summary type="html">本站左侧边栏头像和下方两图标（博客、文档）均可点击。分别会跳转至不同主题的页面。</summary>
