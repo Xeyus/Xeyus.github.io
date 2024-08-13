@@ -4,11 +4,40 @@
   
     
     <entry>
+      <title>sustain+++</title>
+      <link href="/2024/08/13/sustain/"/>
+      <url>/2024/08/13/sustain/</url>
+      
+        <content type="html"><![CDATA[<h2 id="基本情况"><a href="#基本情况" class="headerlink" title="基本情况"></a>基本情况</h2><p>sustain++的MV左侧在代码注释中给出乐曲基本信息和歌词，模拟的Java代码本身“讲述故事”。<br>MV的背景采用高饱和度配色和轻微像素化处理。<br>本曲为 Ghost In The Shell: SAC_2045 的 Ending Theme</p><p>我并未完整看过攻壳机动队（Ghost In The Shell）系列动画。以下所有解读不联系其内容及设定。</p><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>整体有失真感。来源：高饱和度配色，像素化、不自然的光线变化，最前方半调风格的粉色薄雾，元素安排。</p><p>背景无限循环。<br><img src="/files/PixPin_2024-08-13_01-13-38.png" alt="1"><br><img src="/files/PixPin_2024-08-13_01-21-56.png" alt="2"><br><img src="/files/PixPin_2024-08-13_01-22-25.png" alt="3"><br>1图顶端是“Justice Kills Freedom”滚动灯牌的下半部分，与3图中段对应。<br>这里我们设2图顶部中心的笑脸灯牌为循环端点。</p><h3 id="主体"><a href="#主体" class="headerlink" title="主体"></a>主体</h3><p>画面主体部分的机械结构类似人体胸腔-盆骨的结构。<br>2图中手臂位置、后方类似肋骨的线缆，可“证明”这一猜想。</p><p>大脑&#x2F;肠子位于腹部。</p><p>机械主色调为蓝白，附有大量附属结构和红色灯。</p><p>附属结构包括：</p><ol><li>包含类似DNA双螺旋结构的黄色管道。两根被蛇缠绕的连接身体两侧的附属结构，一根充当脊椎。</li><li>手臂两侧类似监控的设备</li><li>手臂左上方的灯牌，根据后方直角向下的金属支架推测直接与机械本体相连。其上下均有“ARE YOU LIFE?”字样，中间为“烦”和一个表情。</li><li>手臂右上方的灯牌，同样推测与本体相连。其左右均有“MELLO”字样，中间为滴血（粉红色液体）的像素小刀。</li><li>胸腔下方、腹部两侧对称的机器人和它们上方的配电箱。</li><li>机器人上方外红内白的圆形结构。</li><li>腹部左侧的灯牌，为双手挤压笑脸emoji的动图。</li><li>腹部下方的灯牌，循环滚动“Justice Kills Freedom”。</li><li>盆骨两侧类似探照灯和喇叭的结构。</li><li>探照灯左侧的灯牌。其展示一双眼睛。</li><li>盆骨下方的笑脸emoji灯牌。</li><li>笑脸灯牌上方类似王冠和塔楼的结构。</li></ol><h4 id="肉质"><a href="#肉质" class="headerlink" title="肉质"></a>肉质</h4><h4 id="象征（按照附属结构-整体排序）"><a href="#象征（按照附属结构-整体排序）" class="headerlink" title="象征（按照附属结构-整体排序）"></a>象征（按照附属结构-整体排序）</h4><h3 id="前景"><a href="#前景" class="headerlink" title="前景"></a>前景</h3><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><h2 id="歌词与代码"><a href="#歌词与代码" class="headerlink" title="歌词与代码"></a>歌词与代码</h2><p><code>package extraLarge</code><br>创建包。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音乐 </tag>
+            
+            <tag> 自我认知 </tag>
+            
+            <tag> 精神分析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SCP-2700杂谈</title>
       <link href="/2024/08/11/SCP-2700%E6%9D%82%E8%B0%88/"/>
       <url>/2024/08/11/SCP-2700%E6%9D%82%E8%B0%88/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>看见了战争即将到来，并厌弃带来战争的世界。自己在制作需要无限能源的武器。</p><p>为自己宇宙的卑劣哭泣，又因为、也为了改变自己同样的卑劣带回死光。<br>他顺应了时代的死本能、自大、自我怀疑。<br>他如愿以偿地赢来了实际事与愿违的结果，然后理解了旅行者的世界和自己值得被选中的部分，尽管是在这个宇宙的映照中理解的。</p><p>不值得、一无是处、时间倒流也无法改变性质。<br>所以，<br>「但是不，我是不会这么做的。我会使得我们的宇宙成为一个值得拯救的宇宙的。」</p>]]></content>
       
       
       <categories>
@@ -23,8 +52,6 @@
             <tag> SCP </tag>
             
             <tag> 尼古拉·特斯拉 </tag>
-            
-            <tag> 超人 </tag>
             
         </tags>
       
