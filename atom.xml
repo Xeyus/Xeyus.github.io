@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-08-12T18:15:19.941Z</updated>
+  <updated>2024-08-13T12:00:16.718Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>A-Z typehead</title>
+    <link href="https://xeyus.github.io/2024/08/13/A-Z-typehead/"/>
+    <id>https://xeyus.github.io/2024/08/13/A-Z-typehead/</id>
+    <published>2024-08-13T10:05:04.000Z</published>
+    <updated>2024-08-13T12:00:16.718Z</updated>
+    
+    
+    <summary type="html">看过椒盐豆豉的博客后自己也想试试。</summary>
+    
+    
+    
+    <category term="日常记录" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="数据记忆" scheme="https://xeyus.github.io/tags/%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BF%86/"/>
+    
+    <category term="习惯" scheme="https://xeyus.github.io/tags/%E4%B9%A0%E6%83%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>sustain+++</title>
     <link href="https://xeyus.github.io/2024/08/13/sustain/"/>
     <id>https://xeyus.github.io/2024/08/13/sustain/</id>
     <published>2024-08-12T16:44:47.000Z</published>
-    <updated>2024-08-12T18:15:19.941Z</updated>
+    <updated>2024-08-13T10:04:22.771Z</updated>
     
     
     <summary type="html">仿生人也与集体无意识连接吗？</summary>
@@ -389,25 +410,6 @@
     
     
     <category term="物品评测" scheme="https://xeyus.github.io/tags/%E7%89%A9%E5%93%81%E8%AF%84%E6%B5%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>树莓派相关记录</title>
-    <link href="https://xeyus.github.io/2024/06/13/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9B%B8%E5%85%B3%E8%AE%B0%E5%BD%95/"/>
-    <id>https://xeyus.github.io/2024/06/13/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9B%B8%E5%85%B3%E8%AE%B0%E5%BD%95/</id>
-    <published>2024-06-13T03:15:41.000Z</published>
-    <updated>2024-07-01T14:29:48.925Z</updated>
-    
-    
-    <summary type="html">到目前为止相当失败。</summary>
-    
-    
-    
-    <category term="DIY" scheme="https://xeyus.github.io/categories/DIY/"/>
-    
-    
-    <category term="电子产品" scheme="https://xeyus.github.io/tags/%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
