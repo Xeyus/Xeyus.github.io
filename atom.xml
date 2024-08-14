@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-08-13T12:00:16.718Z</updated>
+  <updated>2024-08-14T14:25:03.574Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>天桥</title>
+    <link href="https://xeyus.github.io/2024/08/14/%E5%A4%A9%E6%A1%A5/"/>
+    <id>https://xeyus.github.io/2024/08/14/%E5%A4%A9%E6%A1%A5/</id>
+    <published>2024-08-14T14:20:20.000Z</published>
+    <updated>2024-08-14T14:25:03.574Z</updated>
+    
+    
+    <summary type="html">第一次写小说。灵感来自我的梦。</summary>
+    
+    
+    
+    <category term="文学作品" scheme="https://xeyus.github.io/categories/%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81/"/>
+    
+    
+    <category term="小说" scheme="https://xeyus.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>A-Z typehead</title>
@@ -391,25 +410,6 @@
     <category term="委托" scheme="https://xeyus.github.io/tags/%E5%A7%94%E6%89%98/"/>
     
     <category term="民族" scheme="https://xeyus.github.io/tags/%E6%B0%91%E6%97%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>电子书使用体验</title>
-    <link href="https://xeyus.github.io/2024/06/17/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/"/>
-    <id>https://xeyus.github.io/2024/06/17/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</id>
-    <published>2024-06-17T10:05:41.000Z</published>
-    <updated>2024-07-16T06:07:56.618Z</updated>
-    
-    
-    <summary type="html">汉王N10mini使用体验。</summary>
-    
-    
-    
-    <category term="生活记录" scheme="https://xeyus.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="物品评测" scheme="https://xeyus.github.io/tags/%E7%89%A9%E5%93%81%E8%AF%84%E6%B5%8B/"/>
     
   </entry>
   
