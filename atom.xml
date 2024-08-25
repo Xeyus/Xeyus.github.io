@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-08-21T12:05:04.967Z</updated>
+  <updated>2024-08-25T15:42:56.139Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周报 `#2</title>
+    <link href="https://xeyus.github.io/2024/08/25/%E5%91%A8%E6%8A%A5-2/"/>
+    <id>https://xeyus.github.io/2024/08/25/%E5%91%A8%E6%8A%A5-2/</id>
+    <published>2024-08-25T11:31:06.000Z</published>
+    <updated>2024-08-25T15:42:56.139Z</updated>
+    
+    
+    <summary type="html">旅行归来没有赶工，因为提前记了新闻。</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>思想进步的基础</title>
@@ -94,7 +109,7 @@
     <link href="https://xeyus.github.io/2024/08/13/sustain/"/>
     <id>https://xeyus.github.io/2024/08/13/sustain/</id>
     <published>2024-08-12T16:44:47.000Z</published>
-    <updated>2024-08-13T10:04:22.771Z</updated>
+    <updated>2024-08-21T14:33:17.445Z</updated>
     
     
     <summary type="html">仿生人也与集体无意识连接吗？</summary>
@@ -379,28 +394,6 @@
     <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="知识" scheme="https://xeyus.github.io/tags/%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>软件推荐-Anytype</title>
-    <link href="https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/"/>
-    <id>https://xeyus.github.io/2024/06/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-Anytype/</id>
-    <published>2024-06-28T15:00:28.000Z</published>
-    <updated>2024-08-01T10:54:06.123Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;官网地址：&lt;a href=&quot;https://anytype.io/&quot;&gt;https://anytype.io/&lt;/a&gt;&lt;br&gt;官方教程：&lt;a href=&quot;https://doc.anytype.io/anytype-docs/v/documentation_cn&quot;&gt;https://doc.anytype.io/anytype-docs/v/documentation_cn&lt;/a&gt;&lt;br&gt;论坛：&lt;a href=&quot;https://community.anytype.io/&quot;&gt;https://community.anytype.io/&lt;/a&gt;    &lt;/p&gt;
-&lt;p&gt;推荐一款笔记软件&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="推荐" scheme="https://xeyus.github.io/categories/%E6%8E%A8%E8%8D%90/"/>
-    
-    
-    <category term="笔记" scheme="https://xeyus.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="软件" scheme="https://xeyus.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
