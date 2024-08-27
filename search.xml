@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>北京旅行记录</title>
+      <link href="/2024/08/26/%E5%8C%97%E4%BA%AC%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/"/>
+      <url>/2024/08/26/%E5%8C%97%E4%BA%AC%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<p>按首次造访顺序写感受。<br>（实在写不出什么描写了）</p><h3 id="北京站-地铁站"><a href="#北京站-地铁站" class="headerlink" title="北京站&amp;地铁站"></a>北京站&amp;地铁站</h3><p>很有年代气息。<br>第一天去时阳光特别刺眼，周围的各种人全都看不清。</p><h3 id="天坛附近"><a href="#天坛附近" class="headerlink" title="天坛附近"></a>天坛附近</h3><p>大部分是低矮建筑，道路比较宽阔，隔一段距离就有过街天桥。除此之外并未看出繁华。尤其是旅馆所在的街道，相当朴素。</p><h3 id="颐和园"><a href="#颐和园" class="headerlink" title="颐和园"></a>颐和园</h3><p>窄，狭小，腐朽或重刷的建筑以及不知道什么植物让我过敏。<br>没想到清华、北大离圆明园这么近。估计去圆明园过敏得更严重就没去。</p><h3 id="万圣书园"><a href="#万圣书园" class="headerlink" title="万圣书园"></a>万圣书园</h3><p>人文方面的书居多，尤其是历史、社会学方面的。书籍摆放、分类整齐，角度齐全。很好的地方。</p><h3 id="三里屯"><a href="#三里屯" class="headerlink" title="三里屯"></a>三里屯</h3><p>积木搭的）<br>这里的店铺真的像一块块积木，组合出了三里屯。<br>附近有使馆区。在委内瑞拉&amp;玻利维亚大使馆前打车，之后经过了许多大使馆。各有各的风格。</p><h3 id="模范书局"><a href="#模范书局" class="headerlink" title="模范书局"></a>模范书局</h3><p>里面的书不太对胃口，而且很多是店主的收藏，不能看。但是喜欢把教堂改成图书馆后的样子。</p><h3 id="胡同（一堆，没记到底都是哪几条）"><a href="#胡同（一堆，没记到底都是哪几条）" class="headerlink" title="胡同（一堆，没记到底都是哪几条）"></a>胡同（一堆，没记到底都是哪几条）</h3><p>胡同里大部分建筑都由青灰色的砖制成（公共厕所除外），门前基本上都会种一些爬藤的植物，摆着电动车。路很窄，但是平整，弯弯曲曲的（高德地图导航的，不然我根本找不到入口）。墙壁上有很多宣传画，大部分是社会主义核心价值观，还有一些介绍胡同或胡同管理负责人，还有一张是六七十年代风格的天安门海报。</p><p>另外高德地图说“直行”，给我导到两家之间的小过道上了。而且这条路左一个弯右一个弯。</p><h3 id="前门"><a href="#前门" class="headerlink" title="前门"></a>前门</h3><p>走一段距离后感觉又走回去了。应该是因为相同名称的店铺重复出现。可以写恐怖小说）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>周报 `#2</title>
       <link href="/2024/08/25/%E5%91%A8%E6%8A%A5-2/"/>
       <url>/2024/08/25/%E5%91%A8%E6%8A%A5-2/</url>
@@ -105,7 +130,7 @@
       <link href="/2024/08/13/sustain/"/>
       <url>/2024/08/13/sustain/</url>
       
-        <content type="html"><![CDATA[<h2 id="基本情况"><a href="#基本情况" class="headerlink" title="基本情况"></a>基本情况</h2><p>sustain++的MV左侧在代码注释中给出乐曲基本信息和歌词，模拟的Java代码本身“讲述故事”。<br>MV的背景采用高饱和度配色和轻微像素化处理。<br>本曲为 Ghost In The Shell: SAC_2045 的 Ending Theme</p><p>我并未完整看过攻壳机动队（Ghost In The Shell）系列动画。以下所有解读不联系其内容及设定。</p><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>整体有失真感。来源：高饱和度配色，像素化、不自然的光线变化，最前方半调风格的粉色薄雾，元素安排。</p><p>背景无限循环。<br><img src="/files/PixPin_2024-08-13_01-13-38.png" alt="1"><br><img src="/files/PixPin_2024-08-13_01-21-56.png" alt="2"><br><img src="/files/PixPin_2024-08-13_01-22-25.png" alt="3"><br>1图顶端是“Justice Kills Freedom”滚动灯牌的下半部分，与3图中段对应。<br>这里我们设2图顶部中心的笑脸灯牌为循环端点。</p><h3 id="主体"><a href="#主体" class="headerlink" title="主体"></a>主体</h3><p>画面主体部分的机械结构类似人体胸腔-盆骨的结构。<br>2图中手臂位置、后方类似肋骨的线缆，可“证明”这一猜想。</p><p>大脑&#x2F;肠子位于腹部。</p><p>机械主色调为蓝白，附有大量附属结构和红色灯。</p><p>附属结构包括：</p><ol><li>包含类似DNA双螺旋结构的黄色管道。两根被蛇缠绕的连接身体两侧的附属结构，一根充当脊椎。</li><li>手臂两侧类似监控的设备</li><li>手臂左上方的灯牌，根据后方直角向下的金属支架推测直接与机械本体相连。其上下均有“ARE YOU LIFE?”字样，中间为“烦”和一个表情。</li><li>手臂右上方的灯牌，同样推测与本体相连。其左右均有“MELLO”字样，中间为滴血（粉红色液体）的像素小刀。</li><li>胸腔下方、腹部两侧对称的机器人和它们上方的配电箱。</li><li>机器人上方外红内白的圆形结构。</li><li>腹部左侧的灯牌，为双手挤压笑脸emoji的动图。</li><li>腹部下方的灯牌，循环滚动“Justice Kills Freedom”。</li><li>盆骨两侧类似探照灯和喇叭的结构。</li><li>探照灯左侧的灯牌。其展示一双眼睛。</li><li>盆骨下方的笑脸emoji灯牌。</li><li>笑脸灯牌上方类似王冠和塔楼的结构。</li></ol><h4 id="肉质"><a href="#肉质" class="headerlink" title="肉质"></a>肉质</h4><p>集中在机械中段的一大一小两处肉质都有“剥离并展现”的意味，突出生物性。</p><h4 id="象征（按照附属结构-整体排序）"><a href="#象征（按照附属结构-整体排序）" class="headerlink" title="象征（按照附属结构-整体排序）"></a>象征（按照附属结构-整体排序）</h4><ol><li>高饱和且与整体配色相异的黄色相当吸睛，起强调作用：机械外壳内依然为生物。蛇应该有基督教方面的暗示，也起强调作用（并未真正通过某些行为获得，超越人性？）</li><li>其他机械结构应该在强调“监视”和文本上的哲学问题。</li></ol><h3 id="前景"><a href="#前景" class="headerlink" title="前景"></a>前景</h3><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><h2 id="歌词与代码"><a href="#歌词与代码" class="headerlink" title="歌词与代码"></a>歌词与代码</h2><p><code>package extraLarge</code><br>创建包。</p><p>理论上来讲，俄底浦斯情结不必被特意“set rule”。但这里需要特别声明，说明主角不是“人类”，最开始不能直接套用精神分析的理论。<br>另一种解释是“我”接受了“你”的俄底浦斯情结，接受“你”将我认作母亲。我更倾向这个解释。因为代码是“你降生后未寻找到母亲，于是称我为母亲。设置俄底浦斯情结没有问题为世界的规则。”</p><p>同一个格式的“Call me Daddy”处，色彩饱和度恢复正常。代码意为“你获得了我的记忆，你称我为父亲，你只能说sir,yes,no,please,thank you,master,red,green,yellow。”master和红绿灯的颜色……</p><p>迟迟get到的神曲。<br>这首歌其实就像两个生命体【me 非碳基体，类人工智能；you 生命体，自然人】之间的博弈、交融、撕扯、清除的过程。<br>me 与 you的交手盘旋在身份的反复交替、生命形式的多样与唯一、主从的绝对支配与掌控性之中，并最终伴随着“不愿放手”的嘶吼，于null的回音中终结。<br>Me所渴求拥有，并曾经拥有的，是对you全部的“爱”–所有拟人的情欲与希望共享的生命体验，而这一切也最终化为虚无。但这就像篝火里的火星，却并非没有再次延续的可能。</p><p>参考：<a href="https://www.reddit.com/r/mili/comments/sjhn5o/code_analysis_sustain/">https://www.reddit.com/r/mili/comments/sjhn5o/code_analysis_sustain/</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="基本情况"><a href="#基本情况" class="headerlink" title="基本情况"></a>基本情况</h2><p>sustain++的MV左侧在代码注释中给出乐曲基本信息和歌词，模拟的Java代码本身“讲述故事”。<br>MV的背景采用高饱和度配色和轻微像素化处理。<br>本曲为 Ghost In The Shell: SAC_2045 的 Ending Theme</p><p>我并未完整看过攻壳机动队（Ghost In The Shell）系列动画。以下所有解读不联系其内容及设定。</p><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>整体有失真感。来源：高饱和度配色，像素化、不自然的光线变化，最前方半调风格的粉色薄雾，元素安排。</p><p>背景无限循环。<br><img src="/files/PixPin_2024-08-13_01-13-38.png" alt="1"><br><img src="/files/PixPin_2024-08-13_01-21-56.png" alt="2"><br><img src="/files/PixPin_2024-08-13_01-22-25.png" alt="3"><br>1图顶端是“Justice Kills Freedom”滚动灯牌的下半部分，与3图中段对应。<br>这里我们设2图顶部中心的笑脸灯牌为循环端点。</p><h3 id="主体"><a href="#主体" class="headerlink" title="主体"></a>主体</h3><p>画面主体部分的机械结构类似人体胸腔-盆骨的结构。<br>2图中手臂位置、后方类似肋骨的线缆，可“证明”这一猜想。</p><p>大脑&#x2F;肠子位于腹部。</p><p>机械主色调为蓝白，附有大量附属结构和红色灯。</p><p>附属结构包括：</p><ol><li>包含类似DNA双螺旋结构的黄色管道。两根被蛇缠绕的连接身体两侧的附属结构，一根充当脊椎。</li><li>手臂两侧类似监控的设备</li><li>手臂左上方的灯牌，根据后方直角向下的金属支架推测直接与机械本体相连。其上下均有“ARE YOU LIFE?”字样，中间为“烦”和一个表情。</li><li>手臂右上方的灯牌，同样推测与本体相连。其左右均有“MELLO”字样，中间为滴血（粉红色液体）的像素小刀。</li><li>胸腔下方、腹部两侧对称的机器人和它们上方的配电箱。</li><li>机器人上方外红内白的圆形结构。</li><li>腹部左侧的灯牌，为双手挤压笑脸emoji的动图。</li><li>腹部下方的灯牌，循环滚动“Justice Kills Freedom”。</li><li>盆骨两侧类似探照灯和喇叭的结构。</li><li>探照灯左侧的灯牌。其展示一双眼睛。</li><li>盆骨下方的笑脸emoji灯牌。</li><li>笑脸灯牌上方类似王冠和塔楼的结构。</li></ol><h4 id="肉质"><a href="#肉质" class="headerlink" title="肉质"></a>肉质</h4><p>集中在机械中段的一大一小两处肉质都有“剥离并展现”的意味，突出生物性。</p><h4 id="象征（按照附属结构-整体排序）"><a href="#象征（按照附属结构-整体排序）" class="headerlink" title="象征（按照附属结构-整体排序）"></a>象征（按照附属结构-整体排序）</h4><ol><li>高饱和且与整体配色相异的黄色相当吸睛，起强调作用：机械外壳内依然为生物。蛇应该有基督教方面的暗示，也起强调作用（并未真正通过某些行为获得，超越人性？）</li><li>其他机械结构应该在强调“监视”和文本上的哲学问题。</li></ol><h3 id="前景"><a href="#前景" class="headerlink" title="前景"></a>前景</h3><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><h2 id="歌词与代码"><a href="#歌词与代码" class="headerlink" title="歌词与代码"></a>歌词与代码</h2><p><code>package extraLarge</code><br>创建包。</p><p>理论上来讲，俄底浦斯情结不必被特意“set rule”。但这里需要特别声明，说明主角不是“人类”，最开始不能直接套用精神分析的理论。<br>另一种解释是“我”接受了“你”的俄底浦斯情结，接受“你”将我认作母亲。我更倾向这个解释。因为代码是“你降生后未寻找到母亲，于是称我为母亲。设置俄底浦斯情结没有问题为世界的规则。”</p><p>同一个格式的“Call me Daddy”处，色彩饱和度恢复正常。代码意为“你获得了我的记忆，你称我为父亲，你只能说sir,yes,no,please,thank you,master,red,green,yellow。”master和红绿灯的颜色……</p><p>参考：<a href="https://www.reddit.com/r/mili/comments/sjhn5o/code_analysis_sustain/">https://www.reddit.com/r/mili/comments/sjhn5o/code_analysis_sustain/</a></p>]]></content>
       
       
       <categories>
