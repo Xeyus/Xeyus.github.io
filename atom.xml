@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-08-27T13:02:30.146Z</updated>
+  <updated>2024-08-29T10:20:33.951Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>狂猎单通镜牢记录</title>
+    <link href="https://xeyus.github.io/2024/08/29/%E7%8B%82%E7%8C%8E%E5%8D%95%E9%80%9A%E9%95%9C%E7%89%A2%E8%AE%B0%E5%BD%95/"/>
+    <id>https://xeyus.github.io/2024/08/29/%E7%8B%82%E7%8C%8E%E5%8D%95%E9%80%9A%E9%95%9C%E7%89%A2%E8%AE%B0%E5%BD%95/</id>
+    <published>2024-08-29T09:31:12.000Z</published>
+    <updated>2024-08-29T10:20:33.951Z</updated>
+    
+    
+    <summary type="html">以下为呼啸之镜被狂猎杀穿的珍贵记录。</summary>
+    
+    
+    
+    <category term="游戏记录" scheme="https://xeyus.github.io/categories/%E6%B8%B8%E6%88%8F%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="Limbus Company" scheme="https://xeyus.github.io/tags/Limbus-Company/"/>
+    
+    <category term="单通" scheme="https://xeyus.github.io/tags/%E5%8D%95%E9%80%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>北京旅行记录</title>
@@ -40,7 +61,7 @@
     <link href="https://xeyus.github.io/2024/08/25/%E5%91%A8%E6%8A%A5-2/"/>
     <id>https://xeyus.github.io/2024/08/25/%E5%91%A8%E6%8A%A5-2/</id>
     <published>2024-08-25T11:31:06.000Z</published>
-    <updated>2024-08-25T15:42:56.139Z</updated>
+    <updated>2024-08-28T08:35:49.400Z</updated>
     
     
     <summary type="html">旅行归来没有赶工，因为提前记了新闻。</summary>
@@ -373,25 +394,6 @@
     
     
     <category term="古汉语" scheme="https://xeyus.github.io/tags/%E5%8F%A4%E6%B1%89%E8%AF%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>天津旅行记录</title>
-    <link href="https://xeyus.github.io/2024/07/16/%E5%A4%A9%E6%B4%A5%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/"/>
-    <id>https://xeyus.github.io/2024/07/16/%E5%A4%A9%E6%B4%A5%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/</id>
-    <published>2024-07-16T06:04:52.000Z</published>
-    <updated>2024-07-16T14:48:32.117Z</updated>
-    
-    
-    <summary type="html">20240712-20240714</summary>
-    
-    
-    
-    <category term="日常记录" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="旅行" scheme="https://xeyus.github.io/tags/%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   
