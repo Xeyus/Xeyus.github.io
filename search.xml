@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>3D打印机卡料和打面条解决记录</title>
+      <link href="/2024/09/16/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E5%8D%A1%E6%96%99%E5%92%8C%E6%89%93%E9%9D%A2%E6%9D%A1%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%95/"/>
+      <url>/2024/09/16/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E5%8D%A1%E6%96%99%E5%92%8C%E6%89%93%E9%9D%A2%E6%9D%A1%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<p>自从换上拓竹的PLA耗材和它的支架后，就总是卡料。我推测这是因为线材之间摩擦力过大，导致机器抽不上去。</p><p>至于卡料几次后打面条，应该是因为我直接下载的其他人的模型并简单更改了参数，并未特意进行适配，所以在反复暂停-启动后出bug了。</p><p>目前没精力特意盯着它。只能暂时停止使用并搜索解决办法。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> DIY </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3D打印 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>周报-5</title>
       <link href="/2024/09/15/%E5%91%A8%E6%8A%A5-5/"/>
       <url>/2024/09/15/%E5%91%A8%E6%8A%A5-5/</url>
