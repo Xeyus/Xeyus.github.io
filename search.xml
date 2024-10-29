@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>ChatGPT的数学能力</title>
+      <link href="/ChatGPT%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B/"/>
+      <url>/ChatGPT%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B/</url>
+      
+        <content type="html"><![CDATA[<p>首先，请看：1.9 &lt; 1.11。目前GPT-4o还有这个问题。</p><p>再加上我让它做高数题时出现了“该点连续，函数值为0，又因函数值在该点左侧为负，右侧为正，所以该点不可导”这种新造的数学规律，我决定看看它在不做额外提示时的数学素养究竟如何。</p><p>目前计划每条新开一个对话，针对概念理解、题目、结合实际的题目分别测试。<br>如关于比较大小，对话A询问实数比较大小的规则，对话B询问1.9和1.11谁大，对话C询问小明有3个苹果，给了小红1.11个，他们谁的苹果多。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 研究 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GPT </tag>
+            
+            <tag> 数学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>周报-9</title>
       <link href="/%E5%91%A8%E6%8A%A5-9/"/>
       <url>/%E5%91%A8%E6%8A%A5-9/</url>
@@ -91,9 +118,9 @@
       
         <tags>
             
-            <tag> 书香社 </tag>
-            
             <tag> 读书会 </tag>
+            
+            <tag> 书香社 </tag>
             
         </tags>
       
@@ -118,9 +145,9 @@
       
         <tags>
             
-            <tag> 跑团 </tag>
-            
             <tag> 书香社 </tag>
+            
+            <tag> 跑团 </tag>
             
         </tags>
       
