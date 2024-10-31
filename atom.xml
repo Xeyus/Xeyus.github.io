@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-10-31T12:23:11.628Z</updated>
+  <updated>2024-10-31T15:49:41.660Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://xeyus.github.io/%E5%85%B3%E4%BA%8E%E6%88%91%E5%9C%A8%E6%8B%89%E6%BB%A1%E5%8D%B4%E9%A2%86%E4%B8%80%E6%97%A5%E6%B8%B8%E7%9A%84%E5%BF%AB%E4%B9%90%E8%80%8C%E6%83%8A%E6%82%9A%E7%9A%84%E7%BB%8F%E5%8E%86/"/>
     <id>https://xeyus.github.io/%E5%85%B3%E4%BA%8E%E6%88%91%E5%9C%A8%E6%8B%89%E6%BB%A1%E5%8D%B4%E9%A2%86%E4%B8%80%E6%97%A5%E6%B8%B8%E7%9A%84%E5%BF%AB%E4%B9%90%E8%80%8C%E6%83%8A%E6%82%9A%E7%9A%84%E7%BB%8F%E5%8E%86/</id>
     <published>2024-10-30T12:59:01.000Z</published>
-    <updated>2024-10-31T12:23:11.628Z</updated>
+    <updated>2024-10-31T15:49:41.660Z</updated>
     
     
     <summary type="html">这个标题neta了骑士小说的标题。</summary>
@@ -124,9 +124,9 @@
     <category term="交流" scheme="https://xeyus.github.io/categories/%E4%BA%A4%E6%B5%81/"/>
     
     
-    <category term="书香社" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E9%A6%99%E7%A4%BE/"/>
-    
     <category term="读书会" scheme="https://xeyus.github.io/tags/%E8%AF%BB%E4%B9%A6%E4%BC%9A/"/>
+    
+    <category term="书香社" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E9%A6%99%E7%A4%BE/"/>
     
   </entry>
   
@@ -145,9 +145,9 @@
     <category term="日常记录" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="跑团" scheme="https://xeyus.github.io/tags/%E8%B7%91%E5%9B%A2/"/>
-    
     <category term="书香社" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E9%A6%99%E7%A4%BE/"/>
+    
+    <category term="跑团" scheme="https://xeyus.github.io/tags/%E8%B7%91%E5%9B%A2/"/>
     
   </entry>
   
