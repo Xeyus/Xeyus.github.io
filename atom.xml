@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-11-03T12:16:04.272Z</updated>
+  <updated>2024-11-05T15:51:16.600Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>诗歌20241105</title>
+    <link href="https://xeyus.github.io/%E8%AF%97%E6%AD%8C20241105/"/>
+    <id>https://xeyus.github.io/%E8%AF%97%E6%AD%8C20241105/</id>
+    <published>2024-11-05T15:37:17.000Z</published>
+    <updated>2024-11-05T15:51:16.600Z</updated>
+    
+    
+    <summary type="html">为什么我在校园乐跑时看见了静止的天空？</summary>
+    
+    
+    
+    <category term="文学作品" scheme="https://xeyus.github.io/categories/%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81/"/>
+    
+    
+    <category term="诗歌" scheme="https://xeyus.github.io/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>为什么艺术在被杀死</title>
@@ -365,25 +384,6 @@
     <category term="Limbus Company" scheme="https://xeyus.github.io/tags/Limbus-Company/"/>
     
     <category term="单通" scheme="https://xeyus.github.io/tags/%E5%8D%95%E9%80%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>北京旅行记录</title>
-    <link href="https://xeyus.github.io/%E5%8C%97%E4%BA%AC%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/"/>
-    <id>https://xeyus.github.io/%E5%8C%97%E4%BA%AC%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/</id>
-    <published>2024-08-26T10:42:47.000Z</published>
-    <updated>2024-08-27T13:02:30.146Z</updated>
-    
-    
-    <summary type="html">20240822-20240825</summary>
-    
-    
-    
-    <category term="日常记录" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="旅行" scheme="https://xeyus.github.io/tags/%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   
