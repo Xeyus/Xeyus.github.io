@@ -10,6 +10,24 @@
     
     
     <url>
+        <loc>https://xeyus.github.io/wiki/wishlist/reading.html</loc>
+        <lastmod>2024-11-07T11:47:14.572Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xeyus.github.io/wiki/shard/202411.html</loc>
+        <lastmod>2024-11-06T11:59:01.625Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://xeyus.github.io/wiki/wishlist/information-feed.html</loc>
         <lastmod>2024-11-05T15:36:44.109Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,24 +39,6 @@
     <url>
         <loc>https://xeyus.github.io/wiki/wishlist/goal.html</loc>
         <lastmod>2024-11-05T05:49:55.045Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xeyus.github.io/wiki/wishlist/reading.html</loc>
-        <lastmod>2024-11-05T05:35:34.076Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xeyus.github.io/wiki/shard/202411.html</loc>
-        <lastmod>2024-11-04T12:23:28.708Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
