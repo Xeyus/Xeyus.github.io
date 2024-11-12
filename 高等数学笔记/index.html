@@ -39,7 +39,11 @@
   
 
   
-</head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --></head>
 <body>
 
 <div class="l_body s:aa content tech" id="start" layout="page" ><aside class="l_left"><div class="leftbar-container">
@@ -70,7 +74,7 @@
   <span class="sep"></span>
   <a class="cap breadcrumb" href="/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/">高等数学笔记</a>
   </div>
-<div class="flex-row" id="post-meta"><span class="text created">发布于：<time datetime="2024-11-12T07:56:01.000Z">2024-11-12</time></span><span class="sep updated"></span><span class="text updated">更新于：<time datetime="2024-11-12T12:07:50.839Z">2024-11-12</time></span></div></div></div>
+<div class="flex-row" id="post-meta"><span class="text created">发布于：<time datetime="2024-11-12T07:56:01.000Z">2024-11-12</time></span><span class="sep updated"></span><span class="text updated">更新于：<time datetime="2024-11-12T13:59:30.019Z">2024-11-12</time></span></div></div></div>
     
     <div class="bottom only-title">
       
@@ -84,27 +88,27 @@
   </div><article class="md-text content"><h3 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h3><p>根据求解&#x2F;证的对象选择方法。先看形式、性质再找可能的解。<br>证明题不会的话就顺着性质往下推，大概率能推出来。</p>
 <h3 id="题型"><a href="#题型" class="headerlink" title="题型"></a>题型</h3><h4 id="求极限"><a href="#求极限" class="headerlink" title="求极限"></a>求极限</h4><ol>
 <li>通过无穷小的代换（仅乘除时可换），因式分解等化简。可以考虑求导算极限。</li>
-<li>观察是否为$\frac{0}{0}$（或$\frac{∞}{∞}$），若是或者能化成这种形式，就洛必达。<ol>
+<li>观察是否为$$\frac{0}{0}$$（或$$\frac{∞}{∞}$$），若是或者能化成这种形式，就洛必达。<ol>
 <li>想接着洛时看看是不是符合形式；</li>
 <li>∞*0:其中一个变分母；</li>
-<li>$∞-∞$:恒等变形，同分；</li>
-<li>$0^0$，$∞^0$，$1^∞$:幂指函数通用的e的对数次幂化简；</li>
-<li>其中$1^∞$有公式，极限那里说过，不写了。打着太麻烦。</li>
+<li>$$∞-∞$$:恒等变形，同分；</li>
+<li>$$0^0$$，$$∞^0$$，$$1^∞$$:幂指函数通用的e的对数次幂化简；</li>
+<li>其中$$1^∞$$有公式，极限那里说过，不写了。打着太麻烦。</li>
 </ol>
 </li>
 <li>若不是，可使用极限的四则运算，比较无穷小阶数等。</li>
 <li>若还不行，若为分式，按照最高次泰勒展开；或者使用夹逼定理（常见于类似数列形式的求极限）。<ol>
-<li>麦克劳林：$x_0&#x3D;0$的泰勒。</li>
+<li>麦克劳林：$$x_0&#x3D;0$$的泰勒。</li>
 </ol>
 </li>
 <li>以及最后，最基础的ε 。</li>
 <li>注意是否为单侧极限，是否有极限。</li>
 </ol>
-<h5 id="等价无穷小"><a href="#等价无穷小" class="headerlink" title="等价无穷小"></a>等价无穷小</h5><p>常用的如tanx-sinx<del>$\frac{x^3}{2}$,1-cosx</del>$\frac{x^2}{2}$等。</p>
+<h5 id="等价无穷小"><a href="#等价无穷小" class="headerlink" title="等价无穷小"></a>等价无穷小</h5><p>常用的如tanx-sinx<del>$$\frac{x^3}{2}$$,1-cosx</del>$$\frac{x^2}{2}$$等。已有，不在这里重复输入（不想打LaTeX语法了）。<br>而且能用它的地方都可以用泰勒（就是可能有点麻烦）。</p>
 <h4 id="求导与微分"><a href="#求导与微分" class="headerlink" title="求导与微分"></a>求导与微分</h4><ol>
 <li>直接考察求导和微分：<ol>
 <li>直接求导&#x2F;微分。一元函数求导&#x3D;微分。</li>
-<li>y&#x3D;f(x)的反函数求导&#x2F;微分：将x视作关于y的函数。$\frac{dx}{dy}&#x3D;\frac{1}{\frac{dx}{dy}}$。</li>
+<li>y&#x3D;f(x)的反函数求导&#x2F;微分：将x视作关于y的函数。$$\frac{dx}{dy}&#x3D;\frac{1}{\frac{dx}{dy}}$$。</li>
 <li>隐函数求导&#x2F;微分：两端对x求导，y视作关于x的函数。</li>
 <li>乘除与幂指：两端取对数。</li>
 <li>参数方程：两端取微，多阶则视作(n-1)阶和x&#x3D;φ(x)的参数方程再次两端取微。</li>
@@ -145,15 +149,15 @@
 </ol>
 <h5 id="凹凸性"><a href="#凹凸性" class="headerlink" title="凹凸性"></a>凹凸性</h5><p>切线上方凹，切线下方凸。<br>或二阶导大于0凹，小于0凸。<br>或按定义。</p>
 <p>可能为不可导点，二阶不可导点，二阶导为零点。</p>
-<h5 id="渐近线"><a href="#渐近线" class="headerlink" title="渐近线"></a>渐近线</h5><p>先找任意趋于无穷时的水平，再找任意$x_0$的竖直，再找没有水平一端的斜渐近线（$lim{x \to \infty}\frac{f(x)}{x}&#x3D;a,lim{x \to \infty}(f(x)-ax)&#x3D;b$）。</p>
-<h4 id="曲率"><a href="#曲率" class="headerlink" title="曲率"></a>曲率</h4><h5 id="弧微分"><a href="#弧微分" class="headerlink" title="弧微分"></a>弧微分</h5><p>$(ds)^2&#x3D;(dy)^2+(dx)^2$<br>所以有：</p>
+<h5 id="渐近线"><a href="#渐近线" class="headerlink" title="渐近线"></a>渐近线</h5><p>先找任意趋于无穷时的水平，再找任意$x_0$的竖直，再找没有水平一端的斜渐近线（$$lim{x \to \infty}\frac{f(x)}{x}&#x3D;a,lim{x \to \infty}(f(x)-ax)&#x3D;b$$）。</p>
+<h4 id="曲率"><a href="#曲率" class="headerlink" title="曲率"></a>曲率</h4><h5 id="弧微分"><a href="#弧微分" class="headerlink" title="弧微分"></a>弧微分</h5><p>$$(ds)^2&#x3D;(dy)^2+(dx)^2$$<br>所以有：</p>
 <ol>
-<li>y&#x3D;f(x), $ds&#x3D;\sqrt{\1+f’(x)}dx$</li>
-<li>参数方程：<br> $\begin{cases}<br> x&#x3D;φ(t) \<br> y&#x3D;ψ(t)<br> \end{cases}$<br> $ds&#x3D;\sqrt{(φ’(t))^2+(ψ’(t))^2}dt$<br> 极坐标也可视为参数方程。</li>
+<li>y&#x3D;f(x), $$ds&#x3D;\sqrt{\1+f’(x)}dx$$</li>
+<li>参数方程：<br> $$\begin{cases}<br> x&#x3D;φ(t) \<br> y&#x3D;ψ(t)<br> \end{cases}$$<br> $$ds&#x3D;\sqrt{(φ’(t))^2+(ψ’(t))^2}dt$$<br> 极坐标也可视为参数方程。</li>
 <li>参数不同，弧微分不同。</li>
 </ol>
-<h5 id="求曲率"><a href="#求曲率" class="headerlink" title="求曲率"></a>求曲率</h5><p>$K&#x3D;|lim{\delta s \to \0}\frac{\delta \theta}{\delta s}|&#x3D;|\frac{d\delta}{ds}|$</p>
-<h5 id="曲率圆"><a href="#曲率圆" class="headerlink" title="曲率圆"></a>曲率圆</h5><p>与y&#x3D;f(x)相切，在曲线凹向，$R&#x3D;\frac{1}{K}$的圆。</p>
+<h5 id="求曲率"><a href="#求曲率" class="headerlink" title="求曲率"></a>求曲率</h5><p>$$K&#x3D;|lim{\delta s \to \0}\frac{\delta \theta}{\delta s}|&#x3D;|\frac{d\delta}{ds}|$$</p>
+<h5 id="曲率圆"><a href="#曲率圆" class="headerlink" title="曲率圆"></a>曲率圆</h5><p>与y&#x3D;f(x)相切，在曲线凹向，$$R&#x3D;\frac{1}{K}$$的圆。</p>
 <h4 id="比较大小"><a href="#比较大小" class="headerlink" title="比较大小"></a>比较大小</h4><ol>
 <li>构造函数；<ol>
 <li>拉格朗日等判定；</li>
@@ -161,10 +165,10 @@
 </ol>
 </li>
 <li>a-b；</li>
-<li>$\frac{a}{b}$；</li>
+<li>$$\frac{a}{b}$$；</li>
 </ol>
 <h4 id="等价多项式"><a href="#等价多项式" class="headerlink" title="等价多项式"></a>等价多项式</h4><ol>
-<li>泰勒公式（在$x_0$处使用，$f(x)&#x3D;f(x_0)+\frac{f’(x_0)(x-x_0)}{1!}+\frac{f’’(x_0)(x-x_0)^2}{2!}+……+\frac{f^{(n)}(x_0)(x-x_0)^n}{n!}+o((x-x_0)^n)或\frac{f^{(n+1)}(x_0+θ(x-x_0))(x-x_0)^(n+1)}{(n+1)!}$）<ol>
+<li>泰勒公式（在$x_0$处使用，$$f(x)&#x3D;f(x_0)+\frac{f’(x_0)(x-x_0)}{1!}+\frac{f’’(x_0)(x-x_0)^2}{2!}+……+\frac{f^{(n)}(x_0)(x-x_0)^n}{n!}+o((x-x_0)^n)或\frac{f^{(n+1)}(x_0+θ(x-x_0))(x-x_0)^(n+1)}{(n+1)!}$$）<ol>
 <li>现展或是按照1&#x2F;0开始，正负相间&#x2F;同号，仅奇数项&#x2F;仅偶数项&#x2F;奇偶项都有，分母有无阶乘背常用的。</li>
 </ol>
 </li>
@@ -668,6 +672,26 @@
       })
     }
   });
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+    processEscapes: true
+  }
+});
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  }
+});
+MathJax.Hub.Queue(function() {
+  var all = MathJax.Hub.getAllJax(), i;
+  for(i=0; i < all.length; i += 1) {
+    all[i].SourceElement().parentNode.className += ' has-jax';
+  }
+});
 </script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
