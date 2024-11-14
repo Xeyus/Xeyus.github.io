@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://xeyus.github.io/wiki/wishlist/information-feed.html</loc>
+        <lastmod>2024-11-14T14:45:03.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://xeyus.github.io/wiki/flowing-dream/myself.html</loc>
         <lastmod>2024-11-14T12:32:29.426Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -30,15 +39,6 @@
     <url>
         <loc>https://xeyus.github.io/wiki/wishlist/reading.html</loc>
         <lastmod>2024-11-13T09:15:41.058Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xeyus.github.io/wiki/wishlist/information-feed.html</loc>
-        <lastmod>2024-11-05T15:36:44.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
