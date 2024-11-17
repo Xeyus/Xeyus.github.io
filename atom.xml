@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-11-14T12:30:09.340Z</updated>
+  <updated>2024-11-17T07:44:46.934Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>线性代数题解</title>
+    <link href="https://xeyus.github.io/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%A2%98%E8%A7%A3/"/>
+    <id>https://xeyus.github.io/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%A2%98%E8%A7%A3/</id>
+    <published>2024-11-16T16:15:41.000Z</published>
+    <updated>2024-11-17T07:44:46.934Z</updated>
+    
+    
+    <summary type="html">线性代数题型解答。不是线性代数的原理。</summary>
+    
+    
+    
+    <category term="学习" scheme="https://xeyus.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="线性代数" scheme="https://xeyus.github.io/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>战士</title>
+    <link href="https://xeyus.github.io/%E6%88%98%E5%A3%AB/"/>
+    <id>https://xeyus.github.io/%E6%88%98%E5%A3%AB/</id>
+    <published>2024-11-15T15:30:28.000Z</published>
+    <updated>2024-11-17T07:43:22.114Z</updated>
+    
+    
+    <summary type="html">一位战士和他的辅助。</summary>
+    
+    
+    
+    <category term="文学作品" scheme="https://xeyus.github.io/categories/%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81/"/>
+    
+    
+    <category term="小说" scheme="https://xeyus.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>白板</title>
@@ -261,9 +299,9 @@
     <category term="交流" scheme="https://xeyus.github.io/categories/%E4%BA%A4%E6%B5%81/"/>
     
     
-    <category term="读书会" scheme="https://xeyus.github.io/tags/%E8%AF%BB%E4%B9%A6%E4%BC%9A/"/>
-    
     <category term="书香社" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E9%A6%99%E7%A4%BE/"/>
+    
+    <category term="读书会" scheme="https://xeyus.github.io/tags/%E8%AF%BB%E4%B9%A6%E4%BC%9A/"/>
     
   </entry>
   
@@ -282,9 +320,9 @@
     <category term="日常记录" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="书香社" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E9%A6%99%E7%A4%BE/"/>
-    
     <category term="跑团" scheme="https://xeyus.github.io/tags/%E8%B7%91%E5%9B%A2/"/>
+    
+    <category term="书香社" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E9%A6%99%E7%A4%BE/"/>
     
   </entry>
   
@@ -346,40 +384,6 @@
     
     
     <summary type="html">没有真正的新消息就是好消息。只有旧事件的延伸意味着暂时停滞不前……不论是哪方面的。虽然停滞不前的不包括冲突激化就是了。毕竟那些事件就是为了引爆——推动——冲突产生的。</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>3D打印机卡料和打面条解决记录</title>
-    <link href="https://xeyus.github.io/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E5%8D%A1%E6%96%99%E5%92%8C%E6%89%93%E9%9D%A2%E6%9D%A1%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%95/"/>
-    <id>https://xeyus.github.io/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E5%8D%A1%E6%96%99%E5%92%8C%E6%89%93%E9%9D%A2%E6%9D%A1%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%95/</id>
-    <published>2024-09-16T03:17:21.000Z</published>
-    <updated>2024-09-16T15:27:52.105Z</updated>
-    
-    
-    <summary type="html">解决历史遗留问题</summary>
-    
-    
-    
-    <category term="DIY" scheme="https://xeyus.github.io/categories/DIY/"/>
-    
-    
-    <category term="3D打印" scheme="https://xeyus.github.io/tags/3D%E6%89%93%E5%8D%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周报-5</title>
-    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-5/"/>
-    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-5/</id>
-    <published>2024-09-15T04:02:22.000Z</published>
-    <updated>2024-09-18T12:03:23.113Z</updated>
-    
-    
-    <summary type="html">取消了个人板块。</summary>
     
     
     
