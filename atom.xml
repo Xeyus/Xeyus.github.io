@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-11-17T15:39:06.988Z</updated>
+  <updated>2024-11-19T15:49:05.636Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>威化饼干模型</title>
+    <link href="https://xeyus.github.io/%E5%A8%81%E5%8C%96%E9%A5%BC%E5%B9%B2%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://xeyus.github.io/%E5%A8%81%E5%8C%96%E9%A5%BC%E5%B9%B2%E6%A8%A1%E5%9E%8B/</id>
+    <published>2024-11-18T15:28:34.000Z</published>
+    <updated>2024-11-19T15:49:05.636Z</updated>
+    
+    
+    
+    
+    <category term="研究" scheme="https://xeyus.github.io/categories/%E7%A0%94%E7%A9%B6/"/>
+    
+    
+    <category term="模型" scheme="https://xeyus.github.io/tags/%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>周报-12</title>
@@ -36,7 +53,7 @@
     <link href="https://xeyus.github.io/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%A2%98%E8%A7%A3/"/>
     <id>https://xeyus.github.io/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%A2%98%E8%A7%A3/</id>
     <published>2024-11-16T16:15:41.000Z</published>
-    <updated>2024-11-17T07:51:18.033Z</updated>
+    <updated>2024-11-18T12:09:15.359Z</updated>
     
     
     <summary type="html">线性代数题型解答。不是线性代数的原理。</summary>
@@ -372,21 +389,6 @@
     
     
     <category term="摸鱼" scheme="https://xeyus.github.io/tags/%E6%91%B8%E9%B1%BC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周报-7</title>
-    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-7/"/>
-    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-7/</id>
-    <published>2024-09-29T11:32:21.000Z</published>
-    <updated>2024-10-01T15:05:27.982Z</updated>
-    
-    
-    <summary type="html">局势是否会延续升温趋势？</summary>
-    
-    
-    
     
   </entry>
   
