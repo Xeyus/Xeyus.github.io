@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-11-25T12:49:34.445Z</updated>
+  <updated>2024-12-01T16:10:05.928Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自设与作者</title>
+    <link href="https://xeyus.github.io/%E8%87%AA%E8%AE%BE%E4%B8%8E%E4%BD%9C%E8%80%85/"/>
+    <id>https://xeyus.github.io/%E8%87%AA%E8%AE%BE%E4%B8%8E%E4%BD%9C%E8%80%85/</id>
+    <published>2024-12-01T15:59:24.000Z</published>
+    <updated>2024-12-01T16:10:05.928Z</updated>
+    
+    
+    <summary type="html">解决作者在角色（包括旁白和观察者角色）身上投射过多自我的方法？看看这个角色的投射。</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="自设" scheme="https://xeyus.github.io/tags/%E8%87%AA%E8%AE%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>通过点灯塑造围栏</title>
@@ -377,21 +396,6 @@
     <category term="跑团" scheme="https://xeyus.github.io/tags/%E8%B7%91%E5%9B%A2/"/>
     
     <category term="书香社" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E9%A6%99%E7%A4%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周报-8</title>
-    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-8/"/>
-    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-8/</id>
-    <published>2024-10-13T11:32:21.000Z</published>
-    <updated>2024-10-13T15:27:21.829Z</updated>
-    
-    
-    <summary type="html">显而易见会的。我就客气一下，这不出事都对不起之前的“铺垫”。不这样对不起各种各样的爆炸、军备准备、经济动员啥的。不过由于数学和阅读，我并没有太多精力关注新闻，尤其是我本来就不怎么敏感的经济。</summary>
-    
-    
-    
     
   </entry>
   
