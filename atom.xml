@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2024-12-03T16:44:12.607Z</updated>
+  <updated>2024-12-07T09:32:15.829Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>后发的构建</title>
+    <link href="https://xeyus.github.io/%E5%90%8E%E5%8F%91%E7%9A%84%E6%9E%84%E5%BB%BA/"/>
+    <id>https://xeyus.github.io/%E5%90%8E%E5%8F%91%E7%9A%84%E6%9E%84%E5%BB%BA/</id>
+    <published>2024-12-07T08:16:52.000Z</published>
+    <updated>2024-12-07T09:32:15.829Z</updated>
+    
+    
+    <summary type="html">身份认同产生于社会现状，是补充对立矛盾中缺失一方的产物。如何达到最终的目的——让身份对立消失——仍需就不同社会情况分析。</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="身份" scheme="https://xeyus.github.io/tags/%E8%BA%AB%E4%BB%BD/"/>
+    
+    <category term="策略" scheme="https://xeyus.github.io/tags/%E7%AD%96%E7%95%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>穿过文字瀑布流</title>
@@ -375,29 +396,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>青春主题读书会回顾</title>
-    <link href="https://xeyus.github.io/%E9%9D%92%E6%98%A5%E4%B8%BB%E9%A2%98%E8%AF%BB%E4%B9%A6%E4%BC%9A%E5%9B%9E%E9%A1%BE/"/>
-    <id>https://xeyus.github.io/%E9%9D%92%E6%98%A5%E4%B8%BB%E9%A2%98%E8%AF%BB%E4%B9%A6%E4%BC%9A%E5%9B%9E%E9%A1%BE/</id>
-    <published>2024-10-13T15:29:31.000Z</published>
-    <updated>2024-10-15T15:49:06.211Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;（我关于有关青春的文学作品的评价）&lt;br&gt;第一类作品写青春写的是因特定时期下更易挣扎于改变、成长的人，或是这个人的年龄只是恰好比较年轻，比如《罪与罚》；&lt;br&gt;第二类作品为青春提供了镜像中的理想自我，如《饥饿游戏》；&lt;br&gt;第三类作品把青春脸谱化、符号化，是自己凝视、说教的对象，是自己臆想中的对象。&lt;br&gt;第三类一定存在，但我的大脑把它们扔进回收站了。&lt;/p&gt;
-&lt;p&gt;（某同学-A和一主持人-DM有关《挪威的森林》和《霍乱时期的爱情》的讨论）&lt;br&gt;A：我一个女性主义的朋友评价《挪威的森林》充斥着男性凝视，但《霍乱时期的爱情》没有。&lt;br&gt;DM：可能是因为后者终归是严肃文学，里面的人物都是立体的，而前者中的女性角色都是男主的幻想、附庸。这和性描写无关。&lt;/p&gt;
-</summary>
-    
-    
-    
-    <category term="交流" scheme="https://xeyus.github.io/categories/%E4%BA%A4%E6%B5%81/"/>
-    
-    
-    <category term="书香社" scheme="https://xeyus.github.io/tags/%E4%B9%A6%E9%A6%99%E7%A4%BE/"/>
-    
-    <category term="读书会" scheme="https://xeyus.github.io/tags/%E8%AF%BB%E4%B9%A6%E4%BC%9A/"/>
     
   </entry>
   
