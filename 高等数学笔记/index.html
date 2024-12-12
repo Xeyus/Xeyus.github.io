@@ -74,7 +74,7 @@
   <span class="sep"></span>
   <a class="cap breadcrumb" href="/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/">高等数学笔记</a>
   </div>
-<div class="flex-row" id="post-meta"><span class="text created">发布于：<time datetime="2024-11-12T07:56:01.000Z">2024-11-12</time></span><span class="sep updated"></span><span class="text updated">更新于：<time datetime="2024-12-11T14:14:06.682Z">2024-12-11</time></span></div></div></div>
+<div class="flex-row" id="post-meta"><span class="text created">发布于：<time datetime="2024-11-12T07:56:01.000Z">2024-11-12</time></span><span class="sep updated"></span><span class="text updated">更新于：<time datetime="2024-12-12T06:11:05.269Z">2024-12-12</time></span></div></div></div>
     
     <div class="bottom only-title">
       
@@ -180,15 +180,15 @@
 </li>
 </ol>
 <h3 id="积分"><a href="#积分" class="headerlink" title="积分"></a>积分</h3><h4 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h4><ol>
-<li>不定积分：如果F′(x)&#x3D;f(x)，则F(x)+C是f(x)的不定积分，记作：$$\int f(x)dx&#x3D;F(x)+C$$<br>物理意义：不定积分可以看作是累积变化的反函数。</li>
-<li>定积分：定积分是曲线下方面积的代数和，用来表示函数在区间[a,b]上的累积变化量。$$\int_{b}^{a} f(x)dx$$<br>几何意义：定积分表示曲线y&#x3D;f(x)和x轴之间的有符号面积。<br>根据牛顿-莱布尼茨公式：$$\int_{b}^{a} f(x)dx$$&#x3D;F(a)-F(b)</li>
+<li>不定积分：如果F′(x)&#x3D;f(x)，则F(x)+C是f(x)的不定积分，记作：$\int f(x)dx&#x3D;F(x)+C$<br>物理意义：不定积分可以看作是累积变化的反函数。</li>
+<li>定积分：定积分是曲线下方面积的代数和，用来表示函数在区间[a,b]上的累积变化量。$\int_{b}^{a} f(x)dx$<br>几何意义：定积分表示曲线y&#x3D;f(x)和x轴之间的有符号面积。<br>根据牛顿-莱布尼茨公式：$\int_{b}^{a} f(x)dx$&#x3D;F(a)-F(b)</li>
 </ol>
 <h4 id="基本性质"><a href="#基本性质" class="headerlink" title="基本性质"></a>基本性质</h4><ol>
 <li>线性性质：对定积分和不定积分成立。<br>线性运算：加减和数乘。</li>
 <li>区间可加性：对定积分成立，区间[a,b]&#x3D;[a,c]+[c,b]。同理区间颠倒，值取相反数；规定区间上下限相等，定积分值为0。对有限成立。</li>
 <li>奇偶性：<ol>
 <li>若f(x)为奇数，积分区间关于原点对称，积分为0——化简被积函数</li>
-<li>若f(X)为偶数，积分区间关于原点对称，$$\int_{-a}^{a} f(x)dx&#x3D;2\int_{0}_{a} f(x)dx$$——缩小积分区间</li>
+<li>若f(X)为偶数，积分区间关于原点对称，$\int_{-a}^{a} f(x)dx&#x3D;2\int_{0}_{a} f(x)dx$——缩小积分区间</li>
 <li>周期函数任一周期–&gt;[0,T]</li>
 </ol>
 </li>
@@ -200,7 +200,7 @@
 <li>换元简化。设u&#x3D;g(x)，dx&#x3D;g’(x)du，换入原式。<ol>
 <li>通用思路：分母能分解因式就分，能线性拓展就线性拓展；可能凑出什么就同加减乘除<ol>
 <li>拆分$$\frac{P(x)}{Q(x)}$$:<ol>
-<li>待会儿上图。打LaTeX太麻烦。基本思路是把Q(x)分解因式至最简，$$(x-a)^n$$式–找与i次项对应的系数；$$(x^2-px+q)^n$$式找与i次项对应的Cx+D项，总之按次找最后都能组成P(x)就行。</li>
+<li>待会儿上图。打LaTeX太麻烦。基本思路是把Q(x)分解因式至最简，$$(x-a)^n$$式–找与i次项对应的系数；$(x^2-px+q)^n$式找与i次项对应的Cx+D项，总之按次找最后都能组成P(x)就行。</li>
 <li>求它：通分，对应系数相等；代入特殊值如令分母为零的值和其他简单值。</li>
 <li>含三角的话，弦化切割。</li>
 </ol>
@@ -210,9 +210,9 @@
 <li>第一类换元法：若存在乘积，可尝试将某个好导的部分视作复合函数的自变量，f(x)&#x3D;f(φ(x))，dx&#x3D;φ’(x)d(φ(x))从而化简（简化：找个因子扔dx里）。奇次项拆分一项作为“φ(x)”，偶次项降幂。三角函数注意积化和差。</li>
 <li>第二类换元法：打包换元，t&#x3D;f(x)，dx&#x3D;f’(x)dt，最后把t换回f(x)即可。<ol>
 <li>经常利用三角换元。尤其适用于消根号。思路：变为完全平方式可消根号，思考如何换元参数项可以构成三角函数的？+？&#x3D;1模式，且能在开根号后和f’(x)dt组成易于求积的形式。<ol>
-<li>$$\sqrt{a^2-x^2}$$：x&#x3D;asint，结果为<img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="/image.png" alt="alt text"></li>
-<li>$$\frac{1}{\sqrt{a^2-x^2}}$$:x&#x3D;acost，结果为<img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="/image-1.png" alt="alt text"></li>
-<li>$$\frac{1}{\sqrt{x^2-a^2}}$$:x&#x3D;asect，结果为<img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="/image-2.png" alt="alt text"></li>
+<li>$\sqrt{a^2-x^2}$：x&#x3D;asint，结果为<img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="/image.png" alt="alt text"></li>
+<li>$\frac{1}{\sqrt{a^2-x^2}}$:x&#x3D;acost，结果为<img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="/image-1.png" alt="alt text"></li>
+<li>$\frac{1}{\sqrt{x^2-a^2}}$:x&#x3D;asect，结果为<img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="/image-2.png" alt="alt text"></li>
 </ol>
 </li>
 <li>对定积分应用别忘了连区间一起换。</li>
@@ -221,7 +221,7 @@
 </li>
 </ol>
 </li>
-<li>对于两部分的乘积形式，使用分部积分公式：$$\int uv’dx&#x3D;uv+\int u’vdx$$<ol>
+<li>对于两部分的乘积形式，使用分部积分公式：$$\int uv’dx&#x3D;uv-\int u’vdx$$<ol>
 <li>好求导的当u，好求积的当v</li>
 <li>常见的u-v：</li>
 </ol>
@@ -240,20 +240,21 @@
 </ol>
 </li>
 <li>根据弧微分求对应的弧长。<ol>
-<li>对y&#x3D;f(X), $$\int_{b}^{a} (1+(f’(x))^2)^\frac{1}{2}dx$$(切线长度代替，求积)</li>
-<li>对对参数方程：<br>$\begin{cases}<br>x&#x3D;φ(t) \<br>y&#x3D;ψ(t) \<br>\end{cases}$<br>有s&#x3D;$$\int_{b}^{a} \sqrt{φ’^2(x)+ψ’^2(x)}dt$$</li>
-<li>对极坐标系：<br>将r&#x3D;r(θ)表示为参数方程x&#x3D;r(θ)cosθ,y&#x3D;r(θ)sinθ，可得s&#x3D;$$\int_{b}^{a} \sqrt{r^2(x)+r’^2(x)}dt$$</li>
+<li>对y&#x3D;f(X), $\int_{b}^{a} (1+(f’(x))^2)^\frac{1}{2}dx$(切线长度代替，求积)</li>
+<li>对对参数方程：<br>$\begin{cases}<br>x&#x3D;φ(t) \<br>y&#x3D;ψ(t) \<br>\end{cases}$<br>有s&#x3D;$\int_{b}^{a} \sqrt{φ’^2(x)+ψ’^2(x)}dt$</li>
+<li>对极坐标系：<br>将r&#x3D;r(θ)表示为参数方程x&#x3D;r(θ)cosθ,y&#x3D;r(θ)sinθ，可得s&#x3D;$\int_{b}^{a} \sqrt{r^2(x)+r’^2(x)}dt$</li>
 </ol>
 </li>
 <li>根据定积分定义（黎曼可积）求和、求极限。<ol>
 <li>U是与一个变量x的变化区间[a,b]有关的量，对区间有可加性，部分量的近似值可表示为f(ξ)Δx，则可以考虑用定积分表示U：<br>dU&#x3D;f(x)dx，以f(x)dx为被积表达式。</li>
-<li>求函数平均值：$$\frac{1}{b-a}\int_{b}^{a} f(x)dx$$。该平均值即为积分中值定理的ξ。</li>
+<li>求函数平均值：$\frac{1}{b-a}\int_{b}^{a} f(x)dx$。该平均值即为积分中值定理的ξ。</li>
 </ol>
 </li>
 <li>根据几何意义，面积，辅助求值。以及求函数围成的面积。<ol>
-<li>积分中值定理：f(x)≥0，则存在一点ξ∈[a,b]，使得曲边梯形的面积（$$\int_{b}^{a} f(x)dx$$）等于以[a,b]为底，以f(ξ)为高的矩形的面积。</li>
+<li>积分中值定理：f(x)≥0，则存在一点ξ∈[a,b]，使得曲边梯形的面积（$\int_{b}^{a} f(x)dx$）等于以[a,b]为底，以f(ξ)为高的矩形的面积。</li>
 <li>确定交点，积分变量。</li>
 <li>利用对称性化简运算。</li>
+<li>对极坐标系：$\int_{b}{a} \frac{1}{2}r^2dθ$</li>
 </ol>
 </li>
 <li>求立体体积：<ol>
