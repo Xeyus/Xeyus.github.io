@@ -11,7 +11,16 @@
     
     <url>
         <loc>https://xeyus.github.io/wiki/shard/202502.html</loc>
-        <lastmod>2025-02-21T15:44:02.874Z</lastmod>
+        <lastmod>2025-02-28T10:28:10.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xeyus.github.io/wiki/wishlist/reading.html</loc>
+        <lastmod>2025-02-27T10:26:38.892Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -75,15 +84,6 @@
     <url>
         <loc>https://xeyus.github.io/wiki/flowing-dream/myself.html</loc>
         <lastmod>2024-12-19T07:39:13.781Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xeyus.github.io/wiki/wishlist/reading.html</loc>
-        <lastmod>2024-12-09T12:02:14.322Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
