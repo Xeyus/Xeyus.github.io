@@ -41,6 +41,62 @@
   margin-top: 2.4rem;
   margin-bottom: 2.4rem;
 }
+@media print {
+  .l_left,
+  .l_right,
+  .top.bread-nav.footnote,
+  div#read-next,
+  div#post-ai,
+  div#related-posts,
+  div#comments,
+  section#license,
+  section#share,
+  #link-icon,
+  footer {
+    display: none;
+  }
+  .md-text psw {
+    color: unset;
+    background: unset;
+    border: 3px dashed var(--block-border);
+  }
+  .markdownIt-Anchor {
+    display: none; /* 隐藏原始链接内容 */
+  }
+  .article.banner {
+    background: none;
+    border-bottom: 1px dashed var(--block-border);
+  }
+  .banner,
+  .banner.top {
+    border-radius: 0;
+  }
+  .banner .bottom,
+  table {
+    padding: 0rem;
+  }
+  #start {
+    display: unset;
+  }
+  p {
+    margin: 0 !important;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0 !important;
+  }
+  img {
+    max-height: 100vh;
+  }
+  .md-text {
+    max-width: 100%;
+    line-height: unset;
+  }
+}
 :root {
   --theme-link: #2094f3;
 }
