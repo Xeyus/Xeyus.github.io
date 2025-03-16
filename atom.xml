@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2025-03-08T17:56:08.542Z</updated>
+  <updated>2025-03-16T16:01:34.989Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -17,11 +17,64 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>语言学习方法</title>
+    <link href="https://xeyus.github.io/%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+    <id>https://xeyus.github.io/%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</id>
+    <published>2025-03-17T10:22:24.000Z</published>
+    <updated>2025-03-16T16:01:34.989Z</updated>
+    
+    
+    <summary type="html">实际上是对语言语法和语言-能指逻辑的记录。包括有关一些人造语言可以怎么设定的内容。</summary>
+    
+    
+    
+    <category term="研究" scheme="https://xeyus.github.io/categories/%E7%A0%94%E7%A9%B6/"/>
+    
+    
+    <category term="语言" scheme="https://xeyus.github.io/tags/%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>周报-14</title>
+    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-14/"/>
+    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-14/</id>
+    <published>2025-03-16T12:19:20.000Z</published>
+    <updated>2025-03-16T16:00:00.535Z</updated>
+    
+    
+    <summary type="html">重启周报栏目，作为写作监督。</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>雅思考试记录</title>
+    <link href="https://xeyus.github.io/%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E8%AE%B0%E5%BD%95/"/>
+    <id>https://xeyus.github.io/%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E8%AE%B0%E5%BD%95/</id>
+    <published>2025-03-16T12:18:51.000Z</published>
+    <updated>2025-03-16T15:59:52.230Z</updated>
+    
+    
+    <summary type="html">考试过程和结果记录</summary>
+    
+    
+    
+    <category term="日常记录" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="雅思" scheme="https://xeyus.github.io/tags/%E9%9B%85%E6%80%9D/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Limbus Company的故事和我的故事</title>
     <link href="https://xeyus.github.io/Company%E7%9A%84%E6%95%85%E4%BA%8B%E5%92%8C%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/"/>
     <id>https://xeyus.github.io/Company%E7%9A%84%E6%95%85%E4%BA%8B%E5%92%8C%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/</id>
     <published>2025-03-08T16:08:23.000Z</published>
-    <updated>2025-03-08T17:56:08.542Z</updated>
+    <updated>2025-03-16T12:20:31.606Z</updated>
     
     
     <summary type="html">除了博德之门，我还得给其他游戏写点东西。毕竟我打游戏最看重剧情（因为不会RTS操作）。</summary>
@@ -160,21 +213,6 @@
     <category term="Prompts" scheme="https://xeyus.github.io/tags/Prompts/"/>
     
     <category term="DeepSeek" scheme="https://xeyus.github.io/tags/DeepSeek/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周报-14</title>
-    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-14/"/>
-    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-14/</id>
-    <published>2024-12-15T11:32:22.000Z</published>
-    <updated>2024-12-18T16:20:43.012Z</updated>
-    
-    
-    <summary type="html">待续</summary>
-    
-    
-    
     
   </entry>
   
@@ -366,50 +404,6 @@
     <category term="方法论" scheme="https://xeyus.github.io/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
     
     <category term="工具" scheme="https://xeyus.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>To:20280701, Xeyus</title>
-    <link href="https://xeyus.github.io/To20280701/"/>
-    <id>https://xeyus.github.io/To20280701/</id>
-    <published>2024-11-13T12:00:00.000Z</published>
-    <updated>2024-11-13T16:51:24.739Z</updated>
-    
-    
-    <summary type="html">请看过去是否和你想得一样。</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="社论" scheme="https://xeyus.github.io/tags/%E7%A4%BE%E8%AE%BA/"/>
-    
-    <category term="预测" scheme="https://xeyus.github.io/tags/%E9%A2%84%E6%B5%8B/"/>
-    
-    <category term="期望" scheme="https://xeyus.github.io/tags/%E6%9C%9F%E6%9C%9B/"/>
-    
-    <category term="自我成长" scheme="https://xeyus.github.io/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高等数学笔记</title>
-    <link href="https://xeyus.github.io/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
-    <id>https://xeyus.github.io/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/</id>
-    <published>2024-11-12T07:56:01.000Z</published>
-    <updated>2025-03-11T16:32:50.925Z</updated>
-    
-    
-    <summary type="html">总结高等数学题型和思路，以方便考试。</summary>
-    
-    
-    
-    <category term="学习" scheme="https://xeyus.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="高等数学" scheme="https://xeyus.github.io/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
