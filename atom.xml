@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2025-03-16T16:01:34.989Z</updated>
+  <updated>2025-03-23T14:57:52.975Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周报-15</title>
+    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-15/"/>
+    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-15/</id>
+    <published>2025-03-23T13:21:02.000Z</published>
+    <updated>2025-03-23T14:57:52.975Z</updated>
+    
+    
+    <summary type="html">启动的一周</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>语言学习方法</title>
@@ -40,7 +55,7 @@
     <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-14/"/>
     <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-14/</id>
     <published>2025-03-16T12:19:20.000Z</published>
-    <updated>2025-03-16T16:00:00.535Z</updated>
+    <updated>2025-03-23T13:31:44.202Z</updated>
     
     
     <summary type="html">重启周报栏目，作为写作监督。</summary>
@@ -55,7 +70,7 @@
     <link href="https://xeyus.github.io/%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E8%AE%B0%E5%BD%95/"/>
     <id>https://xeyus.github.io/%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E8%AE%B0%E5%BD%95/</id>
     <published>2025-03-16T12:18:51.000Z</published>
-    <updated>2025-03-16T15:59:52.230Z</updated>
+    <updated>2025-03-20T15:48:58.179Z</updated>
     
     
     <summary type="html">考试过程和结果记录</summary>
@@ -97,7 +112,7 @@
     <link href="https://xeyus.github.io/Company%E7%9A%84%E6%95%85%E4%BA%8B%E5%92%8C%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/"/>
     <id>https://xeyus.github.io/Company%E7%9A%84%E6%95%85%E4%BA%8B%E5%92%8C%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/</id>
     <published>2025-03-08T16:08:23.000Z</published>
-    <updated>2025-03-16T12:20:31.606Z</updated>
+    <updated>2025-03-22T16:14:54.502Z</updated>
     
     
     <summary type="html">除了博德之门，我还得给其他游戏写点东西。毕竟我打游戏最看重剧情（因为不会RTS操作）。</summary>
@@ -387,25 +402,6 @@
     
     
     <category term="线性代数" scheme="https://xeyus.github.io/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>战士</title>
-    <link href="https://xeyus.github.io/%E6%88%98%E5%A3%AB/"/>
-    <id>https://xeyus.github.io/%E6%88%98%E5%A3%AB/</id>
-    <published>2024-11-15T15:30:28.000Z</published>
-    <updated>2024-12-01T16:15:34.523Z</updated>
-    
-    
-    <summary type="html">一位战士和他的辅助。</summary>
-    
-    
-    
-    <category term="文学作品" scheme="https://xeyus.github.io/categories/%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81/"/>
-    
-    
-    <category term="小说" scheme="https://xeyus.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
     
   </entry>
   
