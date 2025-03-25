@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2025-03-23T14:57:52.975Z</updated>
+  <updated>2025-03-24T11:56:45.584Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自由的头脑风暴工具，Project Graph</title>
+    <link href="https://xeyus.github.io/%E8%87%AA%E7%94%B1%E7%9A%84%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4%E5%B7%A5%E5%85%B7%EF%BC%8CProject-Graph/"/>
+    <id>https://xeyus.github.io/%E8%87%AA%E7%94%B1%E7%9A%84%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4%E5%B7%A5%E5%85%B7%EF%BC%8CProject-Graph/</id>
+    <published>2025-03-24T11:28:03.000Z</published>
+    <updated>2025-03-24T11:56:45.584Z</updated>
+    
+    
+    <summary type="html">以节点为基础，简洁的信息整合工具。</summary>
+    
+    
+    
+    <category term="推荐" scheme="https://xeyus.github.io/categories/%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="工具" scheme="https://xeyus.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="头脑风暴" scheme="https://xeyus.github.io/tags/%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4/"/>
+    
+    <category term="极简" scheme="https://xeyus.github.io/tags/%E6%9E%81%E7%AE%80/"/>
+    
+  </entry>
   
   <entry>
     <title>周报-15</title>
@@ -133,7 +156,7 @@
     <link href="https://xeyus.github.io/%E5%85%B3%E4%BA%8E%E5%85%A8%E7%8E%8B%E5%9B%BD%E8%BF%BD%E6%9D%80%E5%A4%B1%E8%B4%A5%E5%A5%B3%E5%B7%AB%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E6%8A%A5%E5%91%8A/"/>
     <id>https://xeyus.github.io/%E5%85%B3%E4%BA%8E%E5%85%A8%E7%8E%8B%E5%9B%BD%E8%BF%BD%E6%9D%80%E5%A4%B1%E8%B4%A5%E5%A5%B3%E5%B7%AB%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E6%8A%A5%E5%91%8A/</id>
     <published>2025-03-07T16:00:24.000Z</published>
-    <updated>2025-03-11T08:56:12.321Z</updated>
+    <updated>2025-03-24T11:24:24.404Z</updated>
     
     
     <summary type="html">灵感来源：高中学习生物时编的故事。</summary>
@@ -383,25 +406,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>线性代数题解</title>
-    <link href="https://xeyus.github.io/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%A2%98%E8%A7%A3/"/>
-    <id>https://xeyus.github.io/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%A2%98%E8%A7%A3/</id>
-    <published>2024-11-16T16:15:41.000Z</published>
-    <updated>2025-01-05T16:25:16.911Z</updated>
-    
-    
-    <summary type="html">线性代数题型解答。不是线性代数的原理。</summary>
-    
-    
-    
-    <category term="学习" scheme="https://xeyus.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="线性代数" scheme="https://xeyus.github.io/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
     
   </entry>
   
