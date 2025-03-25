@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2025-03-24T11:56:45.584Z</updated>
+  <updated>2025-03-25T15:06:11.169Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EDC装备</title>
+    <link href="https://xeyus.github.io/EDC%E8%A3%85%E5%A4%87/"/>
+    <id>https://xeyus.github.io/EDC%E8%A3%85%E5%A4%87/</id>
+    <published>2025-03-25T13:37:08.000Z</published>
+    <updated>2025-03-25T15:06:11.169Z</updated>
+    
+    
+    <summary type="html">查缺补漏，看看是否有遗漏或是不必要的东西。</summary>
+    
+    
+    
+    <category term="日常" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="EDC" scheme="https://xeyus.github.io/tags/EDC/"/>
+    
+  </entry>
   
   <entry>
     <title>自由的头脑风暴工具，Project Graph</title>
@@ -59,7 +78,7 @@
     <link href="https://xeyus.github.io/%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
     <id>https://xeyus.github.io/%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</id>
     <published>2025-03-17T10:22:24.000Z</published>
-    <updated>2025-03-16T16:01:34.989Z</updated>
+    <updated>2025-03-25T09:06:03.882Z</updated>
     
     
     <summary type="html">实际上是对语言语法和语言-能指逻辑的记录。包括有关一些人造语言可以怎么设定的内容。</summary>
@@ -391,21 +410,6 @@
     
     
     <category term="模型" scheme="https://xeyus.github.io/tags/%E6%A8%A1%E5%9E%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周报-12</title>
-    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-12/"/>
-    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-12/</id>
-    <published>2024-11-17T13:44:06.000Z</published>
-    <updated>2024-11-17T15:39:06.988Z</updated>
-    
-    
-    <summary type="html">还有6周多今年就结束了。</summary>
-    
-    
-    
     
   </entry>
   
