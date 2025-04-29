@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2025-04-18T02:25:34.326Z</updated>
+  <updated>2025-04-23T15:30:23.604Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周报-18</title>
+    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-18/"/>
+    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-18/</id>
+    <published>2025-04-22T08:32:21.000Z</published>
+    <updated>2025-04-23T15:30:23.604Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;实践&quot;&gt;&lt;a href=&quot;#实践&quot; class=&quot;headerlink&quot; title=&quot;实践&quot;&gt;&lt;/a&gt;实践&lt;/h3&gt;&lt;h4 id=&quot;使用-Project-Graph-安排日程：&quot;&gt;&lt;a href=&quot;#使用-Project-Graph-安排日程：&quot; class=&quot;headerlink&quot; title=&quot;使用 Project Graph 安排日程：&quot;&gt;&lt;/a&gt;使用 Project Graph 安排日程：&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;树状结构，先定下目标模板，再在每一天安排具体任务，如运动–&amp;gt;跑步（平常），–&amp;gt;轮滑（有体育课时）。对于不需要或没时间的模块直接留空。&lt;/li&gt;
+&lt;li&gt;完成的任务使用&lt;code&gt;okk&lt;/code&gt;标记。&lt;/li&gt;
+&lt;li&gt;具体说明直接&lt;code&gt;Tab&lt;/code&gt;新建节点说明，或&lt;code&gt;Ctrl+Enter&lt;/code&gt;解释。&lt;/li&gt;
+&lt;li&gt;视觉效果更直观，能感受到它们占据了一定时空，而不是按照理想状态极限压缩时间安排。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;因为玩不动游戏了尝试用它。最后发现我确实可以为游戏留出时间，但不能给闲没事刷手机留。因为后者不可控且信息量少。&lt;/p&gt;
+&lt;h4 id=&quot;图寻&quot;&gt;&lt;a href=&quot;#图寻&quot; class=&quot;headerlink&quot; title=&quot;图寻&quot;&gt;&lt;/a&gt;图寻&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;对自然知识掌握不到位，如各地区、气候类型常见植物的辨识（只能大致说出种的是什么样的作物、生长情况如何，植被表明其处于哪一温度带、大致季节和气候类型，但无法确定具体品种）。此事于辨别加拿大中亦有记载。&lt;/li&gt;
+&lt;li&gt;看的图不够多，对各地地名-人文特征-自然特征-地图位置的记忆不够。此事于找印度尼西亚的某个公园中亦有记载，路牌上写了城市名，但是一时半会儿找不到。当然，和上一点也有联动：无法根据其自然景观判断其处于印度尼西亚的哪个部位。&lt;/li&gt;
+&lt;li&gt;但是真有意思啊。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&quot;工程制图&quot;&gt;&lt;a href=&quot;#工程制图&quot; class=&quot;headerlink&quot; title=&quot;工程制图&quot;&gt;&lt;/a&gt;工程制图&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;显然是熬夜画导致注意力涣散，居然有几条错误的线没擦掉。&lt;/li&gt;
+&lt;li&gt;剖视图什么的太难画了（主要是找几次这张纸就废了，大概是我用力太大）。还得锻炼空间思维能力……以及记忆绘制标准。&lt;/li&gt;
+&lt;li&gt;赞美电脑制图。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;阅读&quot;&gt;&lt;a href=&quot;#阅读&quot; class=&quot;headerlink&quot; title=&quot;阅读&quot;&gt;&lt;/a&gt;阅读&lt;/h3&gt;&lt;p&gt;缓慢推进读书进度。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>周报-17</title>
@@ -39,7 +71,7 @@
     <link href="https://xeyus.github.io/%E8%8B%8F%E4%B8%B9%E7%9A%84%E6%B8%B8%E6%88%8F/"/>
     <id>https://xeyus.github.io/%E8%8B%8F%E4%B8%B9%E7%9A%84%E6%B8%B8%E6%88%8F/</id>
     <published>2025-04-04T06:03:18.000Z</published>
-    <updated>2025-04-06T16:33:56.362Z</updated>
+    <updated>2025-04-25T03:11:44.749Z</updated>
     
     
     <summary type="html">苏丹的游戏中，成就名称和苗圃中传授的美德名称一致（所以单看成就名很难猜出完成条件）</summary>
@@ -203,27 +235,6 @@
   </entry>
   
   <entry>
-    <title>Limbus Company的故事和我的故事</title>
-    <link href="https://xeyus.github.io/Company%E7%9A%84%E6%95%85%E4%BA%8B%E5%92%8C%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/"/>
-    <id>https://xeyus.github.io/Company%E7%9A%84%E6%95%85%E4%BA%8B%E5%92%8C%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/</id>
-    <published>2025-03-08T16:08:23.000Z</published>
-    <updated>2025-03-22T16:14:54.502Z</updated>
-    
-    
-    <summary type="html">除了博德之门，我还得给其他游戏写点东西。毕竟我打游戏最看重剧情（因为不会RTS操作）。</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="小说" scheme="https://xeyus.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
-    
-    <category term="分析" scheme="https://xeyus.github.io/tags/%E5%88%86%E6%9E%90/"/>
-    
-  </entry>
-  
-  <entry>
     <title>关于全王国追杀失败女巫的可行性报告</title>
     <link href="https://xeyus.github.io/%E5%85%B3%E4%BA%8E%E5%85%A8%E7%8E%8B%E5%9B%BD%E8%BF%BD%E6%9D%80%E5%A4%B1%E8%B4%A5%E5%A5%B3%E5%B7%AB%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E6%8A%A5%E5%91%8A/"/>
     <id>https://xeyus.github.io/%E5%85%B3%E4%BA%8E%E5%85%A8%E7%8E%8B%E5%9B%BD%E8%BF%BD%E6%9D%80%E5%A4%B1%E8%B4%A5%E5%A5%B3%E5%B7%AB%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E6%8A%A5%E5%91%8A/</id>
@@ -296,33 +307,6 @@
     <category term="心理" scheme="https://xeyus.github.io/tags/%E5%BF%83%E7%90%86/"/>
     
     <category term="社会" scheme="https://xeyus.github.io/tags/%E7%A4%BE%E4%BC%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博德之门入侵计划</title>
-    <link href="https://xeyus.github.io/%E5%8D%9A%E5%BE%B7%E4%B9%8B%E9%97%A8%E5%85%A5%E4%BE%B5%E8%AE%A1%E5%88%92/"/>
-    <id>https://xeyus.github.io/%E5%8D%9A%E5%BE%B7%E4%B9%8B%E9%97%A8%E5%85%A5%E4%BE%B5%E8%AE%A1%E5%88%92/</id>
-    <published>2025-01-29T10:50:25.000Z</published>
-    <updated>2025-03-08T17:46:36.084Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;剧情相关&quot;&gt;&lt;a href=&quot;#剧情相关&quot; class=&quot;headerlink&quot; title=&quot;剧情相关&quot;&gt;&lt;/a&gt;剧情相关&lt;/h3&gt;&lt;p&gt;索姆将军卧室里的军事理论著作，在远古龙之路试炼中被认为会为新建成的博德之门带来混乱与仇恨而非和平。结合他三次改信的经历以及成功带走女儿后的行为，合理推测，他信莎尔时就把怎么正常、正确地爱给忘了（但是没让他忘了妻子去世，女儿又不明不白地死了带来的悲伤），而转信米尔寇加剧了这个倾向。（之前确实是个好父亲，也是个合格的领袖。现在把女儿带走后选择直接脑控。）&lt;/p&gt;
-&lt;p&gt;这帮起源队友里最实诚的是外星星际海盗中的优秀学员和被拐去地狱当佣兵的孤儿。别的那都自我介绍了个什么玩意？&lt;/p&gt;
-&lt;p&gt;比如某个野心勃勃的大法师，说是把遗落的魔网碎片当钻戒送给魔法女神，实际上大概是想着有可能就自己利用它登神，结果一个不小心完成了他对魔法女神“一哭二闹三上吊”的索求力量流程的最后一步。知道是她用自己（魔网本身）喂养他体内的卡尔萨斯魔网才没让他直接变核弹之后，我和他都肉眼可见的蔫巴了。本来我还想撺掇他多研究点禁忌魔法，到时候当神的，现在看来法师傲慢又自大，不如回去继续教小兔崽子们。&lt;br&gt;不过曾经胸口塞核弹对小兔崽子们确实有相当强的威慑力量。尤其是他还没告诉学生，魔法女神已经把这事解决了。每当学生们不听话，就威胁说自己要爆了，尽管不怎么要脸，但确实是控制教室的优秀手段。&lt;/p&gt;
-&lt;p&gt;至于什么信莎尔且被莎尔清空记忆（父母忘光光，小黄书还能背下来，真就只清除重要的）；守护人民的英雄，但拿了17岁和魔鬼签比当代软件使用协议还离谱的契约保家卫国的日漫剧本；路人实力仙人跳定位的未成年（按被转化前年龄算）吸血鬼，天天赞同乐子选项，且不赞同真上去干的选项——不管是好事还是坏事，天天在力量、摆脱父亲的影响、自由生活中纠结，最后必须靠可靠的朋友帮忙看清形式。&lt;/p&gt;
-&lt;p&gt;有些二选一太极端了。好在大部分情况下我选择自己持有大部分力量。最后落地就扬了某个夺心魔。在此表示遗憾，本来想着开非致命击晕，打完了再好好谈谈的。结果决战氛围一起来就忘了。&lt;/p&gt;
-&lt;p&gt;细节和后续的照应做得很好。而且大部分离谱选项都有（在此抗议庆功宴上没有让某人从河边走开，让我待在那里静静，缓解接连被四个人表白的惊恐）。&lt;br&gt;——我做的煎蛋卷保证是你吃过最好的。这是对准备把蛋托付给你照顾的养育官说的。选了直接开战。&lt;br&gt;——你妈大概是死了。对找不到妈妈的小姑娘说的。&lt;/p&gt;
-&lt;p&gt;地图上地精营地、晋升之路去山隘的入口，以及幽影诅咒之地的入口距离均不算特别远。幽暗地域塞伦涅哨所–向南方向下到奥法高塔，再向西南方向可以到废弃的村落。根据奥法高塔不同高度看见的景色：蘑菇，轻语树，更高层，也能确定游戏给出的幽暗地域的高低分布。划船去对面复仇之炉再往回走一点是去幽影诅咒之地的升降梯，根据任务点标记在地精营地下方，也是塞伦涅哨所附近的下方。那里是莎尔神殿遗址，结合之前山隘到幽影诅咒之地的路线，对照进入幽影诅咒之地两个路口之间的路线可以看出第一、二章的地图完全可以连上（至少地表如此）。第二章根据大陵寝下方莎尔神殿延伸方向（整体向南），和终焉光芒旅馆隔海相望的相对位置（终焉光芒在南侧偏东，升降梯入口又在终焉光芒的东南方向），以及“东翼被地狱火摧毁”，可以确定地下部分莎尔神殿也可以连上，如果没被地狱势力破坏，我们可以直接沿着某个一刚被咱救出来就被咱割了脑袋的自大狂开挖的路线，一路深入莎尔神殿然后在遇到魔鬼之前就被幽影诅咒咒死（尼讷身上的月亮提灯坏了）。&lt;/p&gt;
-&lt;p&gt;而且正式进入莎尔神殿时可以从一个长着蘑菇的缺口逃课进入更深处。那些蘑菇和幽暗地域中层（中下层？感觉轻语树区域更像中层）的是一种，根据这里在地图上的位置，有它们非常正常（幽暗地域是一片广袤的区域，基本上是整个地下）。&lt;/p&gt;
-&lt;p&gt;第二章结束时“可以沿着晋升之路去博德之门”，也是地图连贯的表现。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="游戏" scheme="https://xeyus.github.io/categories/%E6%B8%B8%E6%88%8F/"/>
-    
-    
-    <category term="博德之门3" scheme="https://xeyus.github.io/tags/%E5%8D%9A%E5%BE%B7%E4%B9%8B%E9%97%A83/"/>
     
   </entry>
   
@@ -405,6 +389,25 @@
     <category term="回到信息茧房" scheme="https://xeyus.github.io/tags/%E5%9B%9E%E5%88%B0%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF/"/>
     
     <category term="信息过剩" scheme="https://xeyus.github.io/tags/%E4%BF%A1%E6%81%AF%E8%BF%87%E5%89%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自设与作者</title>
+    <link href="https://xeyus.github.io/%E8%87%AA%E8%AE%BE%E4%B8%8E%E4%BD%9C%E8%80%85/"/>
+    <id>https://xeyus.github.io/%E8%87%AA%E8%AE%BE%E4%B8%8E%E4%BD%9C%E8%80%85/</id>
+    <published>2024-12-01T15:59:24.000Z</published>
+    <updated>2024-12-01T16:10:05.928Z</updated>
+    
+    
+    <summary type="html">解决作者在角色（包括旁白和观察者角色）身上投射过多自我的方法？看看这个角色的投射。</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="自设" scheme="https://xeyus.github.io/tags/%E8%87%AA%E8%AE%BE/"/>
     
   </entry>
   
