@@ -74,7 +74,7 @@
   <span class="sep"></span>
   <a class="cap breadcrumb" href="/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/">高等数学笔记</a>
   </div>
-<div class="flex-row" id="post-meta"><span class="text created">发布于：<time datetime="2024-11-12T07:56:01.000Z">2024-11-12</time></span><span class="sep updated"></span><span class="text updated">更新于：<time datetime="2025-04-29T09:25:54.651Z">2025-04-29</time></span></div></div></div>
+<div class="flex-row" id="post-meta"><span class="text created">发布于：<time datetime="2024-11-12T07:56:01.000Z">2024-11-12</time></span><span class="sep updated"></span><span class="text updated">更新于：<time datetime="2025-05-13T11:04:57.030Z">2025-05-13</time></span></div></div></div>
     
     <div class="bottom only-title">
       
@@ -364,7 +364,21 @@
 <p>变量分离：若被积函数可分解为单变量函数乘积，逐次积分更简便。<br>积分次序交换：简化积分限或积分难度（如Fubini定理）。</p>
 <p>应用</p>
 <p>几何应用：<br>二重积分求平面区域面积或空间体积；三重积分求空间体积。</p>
-<p>物理应用：<br>质量（密度函数积分）、质心坐标、转动惯量、引力、电场强度等。</p>
+<p>物理应用：<br>质量（密度函数积分）、质心坐标、转动惯量、引力、电场强度等。<br>转动惯量：</p>
+<ol>
+<li><strong>直角坐标系</strong>：<ul>
+<li>绕 $x$ 轴的转动惯量：<br>$I_x &#x3D; \iint\limits_{D} y^2 \rho(x, y) , dx , dy$</li>
+<li>绕 $y$ 轴的转动惯量：<br>$I_y &#x3D; \iint\limits_{D} x^2 \rho(x, y) , dx , dy$</li>
+<li>绕 $z$ 轴（垂直平面）的转动惯量：<br>$I_z &#x3D; \iint\limits_{D} (x^2 + y^2) \rho(x, y) , dx , dy$</li>
+</ul>
+</li>
+<li><strong>极坐标系</strong>（简化对称情况）：<ul>
+<li>绕 $z$ 轴的转动惯量：<br>$I_z &#x3D; \iint\limits_{D’} r^3 \rho(r, \theta) , dr , d\theta$<br>其中 $x^2 + y^2 &#x3D; r^2$，面积微元 $dA &#x3D; r , dr , d\theta$<br>注：$\rho(x, y)$ 或 $\rho(r, \theta)$ 为面密度函数，$D$ 或 $D’$ 为积分区域。</li>
+</ul>
+</li>
+</ol>
+<p>质心：</p>
+<p>总质量$M$：<br>$$M &#x3D; \iint\limits_{D} \rho(x, y) , \mathrm{d}A$<br>质心坐标：<br>$\bar{x} &#x3D; \frac{1}{M} \iint\limits_{D} x \rho(x, y) , \mathrm{d}A$，<br>$\bar{y} &#x3D; \frac{1}{M} \iint\limits_{D} y \rho(x, y) , \mathrm{d}A$<br>或合并表示为：<br>$\bar{x} &#x3D; \frac{\iint\limits_{D} x \rho(x, y) , \mathrm{d}A}{\iint\limits_{D} \rho(x, y) , \mathrm{d}A}$，<br>$\bar{y} &#x3D; \frac{\iint\limits_{D} y \rho(x, y) , \mathrm{d}A}{\iint\limits_{D} \rho(x, y) , \mathrm{d}A}$</p>
 <p>概率统计：联合概率密度函数的概率计算。<br>平均值：函数在区域上的平均值为积分除以区域度量（面积&#x2F;体积）。</p>
 </article>
 
