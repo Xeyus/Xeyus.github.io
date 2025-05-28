@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2025-04-23T15:30:23.604Z</updated>
+  <updated>2025-05-28T16:45:13.974Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周报-21</title>
+    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-21/"/>
+    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-21/</id>
+    <published>2025-05-24T14:57:41.000Z</published>
+    <updated>2025-05-28T16:45:13.974Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;任务-时间分配与单线程成就&quot;&gt;&lt;a href=&quot;#任务-时间分配与单线程成就&quot; class=&quot;headerlink&quot; title=&quot;任务-时间分配与单线程成就&quot;&gt;&lt;/a&gt;任务-时间分配与单线程成就&lt;/h3&gt;&lt;p&gt;目前我看到的任务规划，或者所有试图给自己要做的事和一段未来的时间绑定的行为，大多都归属于以下两类中：为每个任务分配时间，或为每段划分过性质的时间安排任务。一般而言，当需要做的事情较多&amp;#x2F;杂乱时，前者进行一段时间，确定自己做事需要多久，需要多少休息时间，能专注多久后，就会逐渐过渡到后者——稳定的安排令大脑舒适，而且在什么时间做什么事一直是大部分时间表的基本理念。我们一般也只是在一个大的时间段里试图安排一些任务或一些时间，最后变成按照时间安排任务还能更好地适应已有的基础时间表（工作时间，课程表等），以防某个任务跨越了不得不进行不同类型事项或处于不同空间的时间。&lt;/p&gt;
+&lt;h3 id&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title&gt;&lt;/a&gt;&lt;/h3&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>周报-20</title>
+    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-20/"/>
+    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-20/</id>
+    <published>2025-05-24T14:57:11.000Z</published>
+    <updated>2025-05-24T14:58:22.672Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>周报-19</title>
+    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-19/"/>
+    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-19/</id>
+    <published>2025-05-24T14:57:05.000Z</published>
+    <updated>2025-05-24T14:58:34.140Z</updated>
+    
+    
+    <summary type="html">五一假期特刊</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>周报-18</title>
@@ -212,29 +256,6 @@
   </entry>
   
   <entry>
-    <title>庆典</title>
-    <link href="https://xeyus.github.io/%E5%BA%86%E5%85%B8/"/>
-    <id>https://xeyus.github.io/%E5%BA%86%E5%85%B8/</id>
-    <published>2025-03-14T16:02:42.000Z</published>
-    <updated>2025-03-16T16:03:22.374Z</updated>
-    
-    
-    <summary type="html">是生日贺文吗？不完全是。</summary>
-    
-    
-    
-    <category term="小说" scheme="https://xeyus.github.io/categories/%E5%B0%8F%E8%AF%B4/"/>
-    
-    
-    <category term="生日" scheme="https://xeyus.github.io/tags/%E7%94%9F%E6%97%A5/"/>
-    
-    <category term="交错之地" scheme="https://xeyus.github.io/tags/%E4%BA%A4%E9%94%99%E4%B9%8B%E5%9C%B0/"/>
-    
-    <category term="科幻" scheme="https://xeyus.github.io/tags/%E7%A7%91%E5%B9%BB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>关于全王国追杀失败女巫的可行性报告</title>
     <link href="https://xeyus.github.io/%E5%85%B3%E4%BA%8E%E5%85%A8%E7%8E%8B%E5%9B%BD%E8%BF%BD%E6%9D%80%E5%A4%B1%E8%B4%A5%E5%A5%B3%E5%B7%AB%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E6%8A%A5%E5%91%8A/"/>
     <id>https://xeyus.github.io/%E5%85%B3%E4%BA%8E%E5%85%A8%E7%8E%8B%E5%9B%BD%E8%BF%BD%E6%9D%80%E5%A4%B1%E8%B4%A5%E5%A5%B3%E5%B7%AB%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E6%8A%A5%E5%91%8A/</id>
@@ -366,48 +387,6 @@
     <category term="身份" scheme="https://xeyus.github.io/tags/%E8%BA%AB%E4%BB%BD/"/>
     
     <category term="策略" scheme="https://xeyus.github.io/tags/%E7%AD%96%E7%95%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>穿过文字瀑布流</title>
-    <link href="https://xeyus.github.io/%E7%A9%BF%E8%BF%87%E6%96%87%E5%AD%97%E7%80%91%E5%B8%83%E6%B5%81/"/>
-    <id>https://xeyus.github.io/%E7%A9%BF%E8%BF%87%E6%96%87%E5%AD%97%E7%80%91%E5%B8%83%E6%B5%81/</id>
-    <published>2024-12-03T15:25:02.000Z</published>
-    <updated>2024-12-03T16:44:12.607Z</updated>
-    
-    
-    <summary type="html">但是后面没有水帘洞。</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="焦虑" scheme="https://xeyus.github.io/tags/%E7%84%A6%E8%99%91/"/>
-    
-    <category term="回到信息茧房" scheme="https://xeyus.github.io/tags/%E5%9B%9E%E5%88%B0%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF/"/>
-    
-    <category term="信息过剩" scheme="https://xeyus.github.io/tags/%E4%BF%A1%E6%81%AF%E8%BF%87%E5%89%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自设与作者</title>
-    <link href="https://xeyus.github.io/%E8%87%AA%E8%AE%BE%E4%B8%8E%E4%BD%9C%E8%80%85/"/>
-    <id>https://xeyus.github.io/%E8%87%AA%E8%AE%BE%E4%B8%8E%E4%BD%9C%E8%80%85/</id>
-    <published>2024-12-01T15:59:24.000Z</published>
-    <updated>2024-12-01T16:10:05.928Z</updated>
-    
-    
-    <summary type="html">解决作者在角色（包括旁白和观察者角色）身上投射过多自我的方法？看看这个角色的投射。</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://xeyus.github.io/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="自设" scheme="https://xeyus.github.io/tags/%E8%87%AA%E8%AE%BE/"/>
     
   </entry>
   
