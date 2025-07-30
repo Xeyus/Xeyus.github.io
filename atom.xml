@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2025-07-26T15:17:42.783Z</updated>
+  <updated>2025-07-30T15:41:20.118Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Reeden测评</title>
+    <link href="https://xeyus.github.io/Reeden%E6%B5%8B%E8%AF%84/"/>
+    <id>https://xeyus.github.io/Reeden%E6%B5%8B%E8%AF%84/</id>
+    <published>2025-07-29T20:54:27.000Z</published>
+    <updated>2025-07-30T15:41:20.118Z</updated>
+    
+    
+    <summary type="html">新发现的书籍管理软件</summary>
+    
+    
+    
+    <category term="测评" scheme="https://xeyus.github.io/categories/%E6%B5%8B%E8%AF%84/"/>
+    
+    
+    <category term="管理" scheme="https://xeyus.github.io/tags/%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="软件" scheme="https://xeyus.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>周报-23</title>
@@ -375,25 +396,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>雅思考试记录</title>
-    <link href="https://xeyus.github.io/%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E8%AE%B0%E5%BD%95/"/>
-    <id>https://xeyus.github.io/%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E8%AE%B0%E5%BD%95/</id>
-    <published>2025-03-16T12:18:51.000Z</published>
-    <updated>2025-03-20T15:48:58.179Z</updated>
-    
-    
-    <summary type="html">考试过程和结果记录</summary>
-    
-    
-    
-    <category term="日常记录" scheme="https://xeyus.github.io/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="雅思" scheme="https://xeyus.github.io/tags/%E9%9B%85%E6%80%9D/"/>
     
   </entry>
   
