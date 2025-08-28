@@ -11,7 +11,16 @@
     
     <url>
         <loc>https://xeyus.github.io/wiki/shard/202508.html</loc>
-        <lastmod>2025-08-11T14:10:19.419Z</lastmod>
+        <lastmod>2025-08-28T09:12:04.377Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xeyus.github.io/wiki/wishlist/reading.html</loc>
+        <lastmod>2025-08-22T09:24:13.687Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -66,15 +75,6 @@
     <url>
         <loc>https://xeyus.github.io/wiki/shard/202505.html</loc>
         <lastmod>2025-05-28T16:57:39.395Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xeyus.github.io/wiki/wishlist/reading.html</loc>
-        <lastmod>2025-05-13T11:06:24.077Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
