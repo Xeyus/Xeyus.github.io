@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2025-09-27T15:31:51.221Z</updated>
+  <updated>2025-09-27T16:16:32.504Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>纪念日</title>
+    <link href="https://xeyus.github.io/%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
+    <id>https://xeyus.github.io/%E7%BA%AA%E5%BF%B5%E6%97%A5/</id>
+    <published>2025-09-27T15:33:05.000Z</published>
+    <updated>2025-09-27T16:16:32.504Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>D2-主题-冰与时间</title>
@@ -254,7 +267,7 @@
     <link href="https://xeyus.github.io/%E8%AE%B0%E5%BD%95%E3%80%81%E7%AA%92%E6%81%AF%E4%B8%8E%E9%81%97%E5%BF%98/"/>
     <id>https://xeyus.github.io/%E8%AE%B0%E5%BD%95%E3%80%81%E7%AA%92%E6%81%AF%E4%B8%8E%E9%81%97%E5%BF%98/</id>
     <published>2025-07-11T13:26:15.000Z</published>
-    <updated>2025-07-17T17:32:21.192Z</updated>
+    <updated>2025-09-27T15:33:06.140Z</updated>
     
     
     <summary type="html">可能是V字仇杀队观后感</summary>
@@ -397,25 +410,6 @@
     
     
     <category term="跑团" scheme="https://xeyus.github.io/categories/%E8%B7%91%E5%9B%A2/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>周报-19</title>
-    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-19/"/>
-    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-19/</id>
-    <published>2025-05-24T14:57:41.000Z</published>
-    <updated>2025-06-01T17:33:05.763Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;任务-时间分配与单线程成就&quot;&gt;&lt;a href=&quot;#任务-时间分配与单线程成就&quot; class=&quot;headerlink&quot; title=&quot;任务-时间分配与单线程成就&quot;&gt;&lt;/a&gt;任务-时间分配与单线程成就&lt;/h3&gt;&lt;p&gt;目前我看到的任务规划，或者所有试图给自己要做的事和一段未来的时间绑定的行为，大多都归属于以下两类中：为每个任务分配时间，或为每段划分过性质的时间安排任务。一般而言，当需要做的事情较多&amp;#x2F;杂乱时，前者进行一段时间，确定自己做事需要多久，需要多少休息时间，能专注多久后，就会逐渐过渡到后者——稳定的安排令大脑舒适，而且在什么时间做什么事一直是大部分时间表的基本理念。我们一般也只是在一个大的时间段里试图安排一些任务或一些时间，最后变成按照时间安排任务还能更好地适应已有的基础时间表（工作时间，课程表等），以防某个任务跨越了不得不进行不同类型事项或处于不同空间的时间。&lt;/p&gt;
-&lt;p&gt;但是我在做事时倾向于线性安排，做完一件后才会开启下一件。如果必须提前开启下一件则会选择多个任务同时进行。一个后果就是难以启动某些必要任务：没有结束某个任务的标准和概念。&lt;/p&gt;
-&lt;p&gt;解决方法应该是确定一些刚性指标，如进行多长时间后切换到下一个。但是我很难搭理自己设下的提醒。所以还需进一步探索解决方法。&lt;/p&gt;
-&lt;h3 id=&quot;其他事件&quot;&gt;&lt;a href=&quot;#其他事件&quot; class=&quot;headerlink&quot; title=&quot;其他事件&quot;&gt;&lt;/a&gt;其他事件&lt;/h3&gt;&lt;p&gt;智齿发炎：右下方的智齿在三月左右发过炎，最近又发炎了。&lt;/p&gt;
-</summary>
-    
-    
     
     
   </entry>
