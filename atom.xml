@@ -6,7 +6,7 @@
   <link href="https://xeyus.github.io/atom.xml" rel="self"/>
   
   <link href="https://xeyus.github.io/"/>
-  <updated>2026-01-20T17:59:44.136Z</updated>
+  <updated>2026-01-25T14:25:05.411Z</updated>
   <id>https://xeyus.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周报-39</title>
+    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-39/"/>
+    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-39/</id>
+    <published>2026-01-25T14:24:21.000Z</published>
+    <updated>2026-01-25T14:25:05.411Z</updated>
+    
+    
+    <summary type="html">2026-W04</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2025年回顾</title>
@@ -382,21 +397,6 @@
     <category term="管理" scheme="https://xeyus.github.io/tags/%E7%AE%A1%E7%90%86/"/>
     
     <category term="软件" scheme="https://xeyus.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周报-23</title>
-    <link href="https://xeyus.github.io/%E5%91%A8%E6%8A%A5-23/"/>
-    <id>https://xeyus.github.io/%E5%91%A8%E6%8A%A5-23/</id>
-    <published>2025-07-21T09:48:59.000Z</published>
-    <updated>2025-07-26T15:17:42.783Z</updated>
-    
-    
-    <summary type="html">杀死理念的方法</summary>
-    
-    
-    
     
   </entry>
   
